@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T13:24:12Z",
+            "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29496
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T13:24:12Z",
+            "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29496
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T13:24:12Z",
+            "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29496
@@ -95,7 +95,7 @@
             "last_commit": "2026-05-29T17:59:07Z",
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4211
+            "stars": 4212
           }
         },
         {
@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T04:43:22Z",
+            "last_commit": "2026-08-14T03:36:47Z",
             "owner": "Ocramius",
             "repo": "PackageVersions",
             "stars": 3171
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-10T01:43:48Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1716
+            "stars": 1718
           }
         },
         {
@@ -871,7 +871,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5387
+            "stars": 5386
           }
         },
         {
@@ -885,7 +885,7 @@
             "last_commit": "2026-08-01T09:55:22Z",
             "owner": "composer",
             "repo": "xdebug-handler",
-            "stars": 2564
+            "stars": 2565
           }
         },
         {
@@ -927,7 +927,7 @@
             "last_commit": "2026-08-09T22:02:40Z",
             "owner": "ergebnis",
             "repo": "composer-normalize",
-            "stars": 1116
+            "stars": 1117
           }
         },
         {
@@ -938,7 +938,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T04:52:33Z",
+            "last_commit": "2026-08-14T03:41:31Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
             "stars": 1009
@@ -1045,7 +1045,7 @@
             "last_commit": "2026-07-02T03:15:04Z",
             "owner": "jakoch",
             "repo": "phantomjs-installer",
-            "stars": 151
+            "stars": 150
           }
         },
         {
@@ -1344,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:01:35.239Z",
+    "last_updated": "2026-08-14T04:28:11.561Z",
     "original_repository": "jakoch/awesome-composer",
     "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
     "enhanced_repository": "enhansome/enhansome-composer",
