@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29496
+            "stars": 29498
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29496
+            "stars": 29498
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29496
+            "stars": 29498
           }
         },
         {
@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T03:36:47Z",
+            "last_commit": "2026-08-14T06:46:29Z",
             "owner": "Ocramius",
             "repo": "PackageVersions",
             "stars": 3171
@@ -179,7 +179,7 @@
             "last_commit": "2025-08-06T14:05:26Z",
             "owner": "clue",
             "repo": "graph-composer",
-            "stars": 936
+            "stars": 937
           }
         },
         {
@@ -871,7 +871,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5386
+            "stars": 5385
           }
         },
         {
@@ -938,7 +938,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T03:41:31Z",
+            "last_commit": "2026-08-14T07:06:43Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
             "stars": 1009
@@ -1344,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:28:11.561Z",
+    "last_updated": "2026-08-15T03:22:26.603Z",
     "original_repository": "jakoch/awesome-composer",
     "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
     "enhanced_repository": "enhansome/enhansome-composer",
