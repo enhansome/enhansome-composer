@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29499
+            "stars": 29500
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29499
+            "stars": 29500
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29499
+            "stars": 29500
           }
         },
         {
@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T02:12:38Z",
+            "last_commit": "2026-08-17T06:44:42Z",
             "owner": "Ocramius",
             "repo": "PackageVersions",
             "stars": 3171
@@ -899,7 +899,7 @@
             "last_commit": "2026-04-27T02:02:52Z",
             "owner": "composer-unused",
             "repo": "composer-unused",
-            "stars": 1684
+            "stars": 1685
           }
         },
         {
@@ -927,7 +927,7 @@
             "last_commit": "2026-08-16T22:02:50Z",
             "owner": "ergebnis",
             "repo": "composer-normalize",
-            "stars": 1117
+            "stars": 1118
           }
         },
         {
@@ -1207,7 +1207,7 @@
             "last_commit": "2026-02-06T14:56:51Z",
             "owner": "repman-io",
             "repo": "repman",
-            "stars": 581
+            "stars": 582
           }
         },
         {
@@ -1344,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:32:40.555Z",
+    "last_updated": "2026-08-18T03:27:37.229Z",
     "original_repository": "jakoch/awesome-composer",
     "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
     "enhanced_repository": "enhansome/enhansome-composer",
