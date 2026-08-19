@@ -123,7 +123,7 @@
             "last_commit": "2026-08-10T01:43:48Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1718
+            "stars": 1719
           }
         },
         {
@@ -498,7 +498,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-01T08:41:24Z",
+            "last_commit": "2026-08-18T11:36:53Z",
             "owner": "SanderSander",
             "repo": "composer-link",
             "stars": 92
@@ -694,7 +694,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-06T10:41:17Z",
+            "last_commit": "2026-08-18T11:42:43Z",
             "owner": "drupal",
             "repo": "core-vendor-hardening",
             "stars": 17
@@ -1207,7 +1207,7 @@
             "last_commit": "2026-02-06T14:56:51Z",
             "owner": "repman-io",
             "repo": "repman",
-            "stars": 582
+            "stars": 583
           }
         },
         {
@@ -1344,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:27:37.229Z",
+    "last_updated": "2026-08-19T03:28:44.423Z",
     "original_repository": "jakoch/awesome-composer",
     "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
     "enhanced_repository": "enhansome/enhansome-composer",
