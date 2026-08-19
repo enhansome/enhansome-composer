@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1864363,
             "language": "PHP",
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1864363,
             "language": "PHP",
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1864363,
             "language": "PHP",
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4698175,
             "language": "PHP",
             "last_commit": "2026-07-01T21:02:33Z",
             "owner": "composer",
@@ -63,12 +67,7 @@
       "title": "Composer"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Support"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -77,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47120661,
             "language": "PHP",
             "last_commit": "2022-12-03T08:11:28Z",
             "owner": "hirak",
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70288750,
             "language": "PHP",
             "last_commit": "2026-05-29T17:59:07Z",
             "owner": "symfony",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50372644,
             "language": "PHP",
             "last_commit": "2026-08-17T06:44:42Z",
             "owner": "Ocramius",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34407154,
             "language": "PHP",
             "last_commit": "2026-08-10T01:43:48Z",
             "owner": "cweagans",
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 252459319,
             "language": "PHP",
             "last_commit": "2022-01-17T14:15:51Z",
             "owner": "composer",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84097963,
             "language": "PHP",
             "last_commit": "2024-06-22T09:18:12Z",
             "owner": "BrainMaestro",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28324879,
             "language": "PHP",
             "last_commit": "2026-02-17T18:54:18Z",
             "owner": "wikimedia",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10075815,
             "language": "PHP",
             "last_commit": "2025-08-06T14:05:26Z",
             "owner": "clue",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21001804,
             "language": "PHP",
             "last_commit": "2023-02-28T10:54:22Z",
             "owner": "fxpio",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 736211524,
             "language": "PHP",
             "last_commit": "2026-08-11T12:23:21Z",
             "owner": "shipmonk-rnd",
@@ -217,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71593418,
             "language": "PHP",
             "last_commit": "2026-08-07T21:59:58Z",
             "owner": "PHPCSStandards",
@@ -231,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42963991,
             "language": "PHP",
             "last_commit": "2025-11-27T10:00:47Z",
             "owner": "pyrech",
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84933609,
             "language": "PHP",
             "last_commit": "2023-03-04T08:50:59Z",
             "owner": "slince",
@@ -259,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57874945,
             "language": "PHP",
             "last_commit": "2026-02-04T10:45:32Z",
             "owner": "bamarni",
@@ -273,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33719335,
             "language": "PHP",
             "last_commit": "2023-12-13T11:49:59Z",
             "owner": "beberlei",
@@ -287,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52349469,
             "language": "PHP",
             "last_commit": "2026-08-08T05:49:45Z",
             "owner": "vaimo",
@@ -301,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43491309,
             "language": "PHP",
             "last_commit": "2021-12-02T15:35:28Z",
             "owner": "soullivaneuh",
@@ -315,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120679908,
             "language": "PHP",
             "last_commit": "2024-09-02T15:48:33Z",
             "owner": "ffraenz",
@@ -329,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156724942,
             "language": "PHP",
             "last_commit": "2022-05-16T11:25:07Z",
             "owner": "Ayesh",
@@ -343,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271629916,
             "language": "PHP",
             "last_commit": "2026-07-17T16:17:47Z",
             "owner": "IonBazan",
@@ -357,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60379305,
             "language": "PHP",
             "last_commit": "2021-01-18T17:52:48Z",
             "owner": "jderusse",
@@ -371,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102729244,
             "language": "PHP",
             "last_commit": "2024-07-29T10:15:14Z",
             "owner": "fxpio",
@@ -385,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33042488,
             "language": "PHP",
             "last_commit": "2017-12-04T19:30:55Z",
             "owner": "Letudiant",
@@ -399,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85290139,
             "language": "PHP",
             "last_commit": "2026-08-10T15:32:31Z",
             "owner": "typisttech",
@@ -413,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23107875,
             "language": "PHP",
             "last_commit": "2024-03-09T07:46:22Z",
             "owner": "barryvdh",
@@ -427,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16550959,
             "language": "PHP",
             "last_commit": "2026-05-20T07:59:02Z",
             "owner": "mnsami",
@@ -441,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28814261,
             "language": "PHP",
             "last_commit": "2026-07-13T12:22:34Z",
             "owner": "dg",
@@ -455,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31776085,
             "language": "PHP",
             "last_commit": "2022-08-25T15:14:50Z",
             "owner": "thecodingmachine",
@@ -469,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5550104,
             "language": "PHP",
             "last_commit": "2016-03-18T11:25:41Z",
             "owner": "bamarni",
@@ -483,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290004952,
             "language": null,
             "last_commit": "2025-03-06T02:08:11Z",
             "owner": "ramsey",
@@ -497,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469111656,
             "language": "PHP",
             "last_commit": "2026-08-18T11:36:53Z",
             "owner": "SanderSander",
@@ -511,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201355729,
             "language": "PHP",
             "last_commit": "2026-08-08T20:12:35Z",
             "owner": "CycloneDX",
@@ -525,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208862275,
             "language": "PHP",
             "last_commit": "2022-11-10T19:33:35Z",
             "owner": "ssx",
@@ -539,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183922633,
             "language": "PHP",
             "last_commit": "2022-07-03T21:36:31Z",
             "owner": "kalessil",
@@ -553,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16117907,
             "language": "PHP",
             "last_commit": "2026-07-19T08:31:42Z",
             "owner": "netresearch",
@@ -567,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12106006,
             "language": "PHP",
             "last_commit": "2020-10-25T21:13:20Z",
             "owner": "naderman",
@@ -581,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 56599359,
             "language": "PHP",
             "last_commit": "2024-05-08T09:27:40Z",
             "owner": "mindplay-dk",
@@ -595,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115119681,
             "language": "PHP",
             "last_commit": "2026-08-01T23:07:03Z",
             "owner": "mcaskill",
@@ -609,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217685636,
             "language": "PHP",
             "last_commit": "2025-11-21T14:57:12Z",
             "owner": "liborm85",
@@ -623,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68651304,
             "language": "PHP",
             "last_commit": "2021-10-11T06:40:47Z",
             "owner": "theofidry",
@@ -637,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 108409434,
             "language": "PHP",
             "last_commit": "2024-04-26T13:18:47Z",
             "owner": "isaaceindhoven",
@@ -651,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 61841273,
             "language": "PHP",
             "last_commit": "2020-10-19T00:44:25Z",
             "owner": "webysther",
@@ -665,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73680584,
             "language": "PHP",
             "last_commit": "2023-09-29T21:02:35Z",
             "owner": "lichunqiang",
@@ -679,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32250739,
             "language": "PHP",
             "last_commit": "2015-04-19T12:01:18Z",
             "owner": "e-picas",
@@ -693,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204363168,
             "language": "PHP",
             "last_commit": "2026-08-18T11:42:43Z",
             "owner": "drupal",
@@ -707,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 127812199,
             "language": "PHP",
             "last_commit": "2023-01-04T23:11:44Z",
             "owner": "narrowspark",
@@ -721,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294022182,
             "language": "PHP",
             "last_commit": "2025-11-02T11:21:40Z",
             "owner": "civicrm",
@@ -735,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163436919,
             "language": "PHP",
             "last_commit": "2025-05-30T06:06:03Z",
             "owner": "mageops",
@@ -749,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202494455,
             "language": "PHP",
             "last_commit": "2024-04-09T20:36:03Z",
             "owner": "civicrm",
@@ -763,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65204473,
             "language": "PHP",
             "last_commit": "2016-08-09T11:15:35Z",
             "owner": "ThaDafinser",
@@ -777,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94461882,
             "language": "PHP",
             "last_commit": "2022-04-28T23:13:59Z",
             "owner": "mariusbuescher",
@@ -791,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27660619,
             "language": "PHP",
             "last_commit": "2015-06-12T03:00:54Z",
             "owner": "ngyuki",
@@ -805,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83270757,
             "language": "PHP",
             "last_commit": "2021-08-23T23:08:12Z",
             "owner": "krakphp",
@@ -819,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34801857,
             "language": "PHP",
             "last_commit": "2018-07-31T10:33:37Z",
             "owner": "nfreear",
@@ -833,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 990531132,
             "language": "PHP",
             "last_commit": "2026-08-16T11:27:22Z",
             "owner": "move-elevator",
@@ -847,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1232932578,
             "language": "PHP",
             "last_commit": "2026-07-27T07:00:42Z",
             "owner": "wazum",
@@ -858,7 +913,7 @@
       "title": "Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -867,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15479087,
             "language": "HTML",
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
@@ -881,6 +937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111680504,
             "language": "PHP",
             "last_commit": "2026-08-01T09:55:22Z",
             "owner": "composer",
@@ -895,6 +952,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176938195,
             "language": "PHP",
             "last_commit": "2026-04-27T02:02:52Z",
             "owner": "composer-unused",
@@ -909,6 +967,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29075900,
             "language": "PHP",
             "last_commit": "2024-04-21T19:23:19Z",
             "owner": "franzliedke",
@@ -923,11 +982,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117266976,
             "language": "PHP",
             "last_commit": "2026-08-16T22:02:50Z",
             "owner": "ergebnis",
             "repo": "composer-normalize",
-            "stars": 1118
+            "stars": 1119
           }
         },
         {
@@ -937,6 +997,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46859018,
             "language": "PHP",
             "last_commit": "2026-08-14T07:06:43Z",
             "owner": "maglnet",
@@ -951,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15349057,
             "language": "PHP",
             "last_commit": "2021-07-27T05:23:17Z",
             "owner": "pborreli",
@@ -965,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186822216,
             "language": null,
             "last_commit": "2022-02-01T10:25:34Z",
             "owner": "bramus",
@@ -979,6 +1042,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3689871,
             "language": "PHP",
             "last_commit": "2017-02-03T21:32:59Z",
             "owner": "igorw",
@@ -993,6 +1057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163982373,
             "language": "PHP",
             "last_commit": "2026-06-28T09:43:01Z",
             "owner": "dereuromark",
@@ -1004,7 +1069,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1013,6 +1078,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6322277,
             "language": "PHP",
             "last_commit": "2025-11-26T14:11:27Z",
             "owner": "Incenteev",
@@ -1027,6 +1093,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 27604816,
             "language": "PHP",
             "last_commit": "2019-06-01T06:26:12Z",
             "owner": "sensiolabs",
@@ -1041,6 +1108,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11861935,
             "language": "PHP",
             "last_commit": "2026-07-02T03:15:04Z",
             "owner": "jakoch",
@@ -1055,6 +1123,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62310260,
             "language": "PHP",
             "last_commit": "2024-01-10T13:42:25Z",
             "owner": "tommy-muehle",
@@ -1069,6 +1138,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45651470,
             "language": "PHP",
             "last_commit": "2020-12-16T08:02:30Z",
             "owner": "neronmoon",
@@ -1083,6 +1153,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253338544,
             "language": "PHP",
             "last_commit": "2026-03-24T08:09:36Z",
             "owner": "villfa",
@@ -1097,6 +1168,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70408833,
             "language": "PHP",
             "last_commit": "2018-01-29T12:02:30Z",
             "owner": "raphaelstolt",
@@ -1111,6 +1183,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71503388,
             "language": "PHP",
             "last_commit": "2017-05-08T16:21:18Z",
             "owner": "raphaelstolt",
@@ -1125,6 +1198,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213999712,
             "language": "PHP",
             "last_commit": "2021-05-23T12:02:33Z",
             "owner": "0xch",
@@ -1137,98 +1211,107 @@
     },
     {
       "description": "Packagist is the PHP Package Repository.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Packagist Mirror",
+              "description": "This script helps to setup a packagist mirror. It is the maintained and stable version of Packagist Crawler.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 94506084,
+                "language": "PHP",
+                "last_commit": "2025-03-19T12:20:21Z",
+                "owner": "webysther",
+                "repo": "packagist-mirror",
+                "stars": 200
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Packagist Mirror from Indonesia",
+              "description": "Another implementation for creating a packagist mirror.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128067234,
+                "language": "PHP",
+                "last_commit": "2019-05-14T06:57:59Z",
+                "owner": "IndraGunawan",
+                "repo": "packagist-mirror",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docker Image",
+              "description": "This Docker image helps to create a customized packagist mirror.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 104811625,
+                "language": "Dockerfile",
+                "last_commit": "2025-03-19T13:13:21Z",
+                "owner": "webysther",
+                "repo": "packagist-mirror-docker",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Setup a Packagist Mirror"
+        }
+      ],
       "title": "Packagist"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Packagist Mirror",
-          "description": "This script helps to setup a packagist mirror. It is the maintained and stable version of Packagist Crawler.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2025-03-19T12:20:21Z",
-            "owner": "webysther",
-            "repo": "packagist-mirror",
-            "stars": 200
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Packagist Mirror from Indonesia",
-          "description": "Another implementation for creating a packagist mirror.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-05-14T06:57:59Z",
-            "owner": "IndraGunawan",
-            "repo": "packagist-mirror",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Docker Image",
-          "description": "This Docker image helps to create a customized packagist mirror.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Dockerfile",
-            "last_commit": "2025-03-19T13:13:21Z",
-            "owner": "webysther",
-            "repo": "packagist-mirror-docker",
-            "stars": 27
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "repman.io",
+              "description": "& repman-io/repman - A Private PHP Package Repository Manager & Packagist Proxy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246783755,
+                "language": "PHP",
+                "last_commit": "2026-02-06T14:56:51Z",
+                "owner": "repman-io",
+                "repo": "repman",
+                "stars": 583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "repman-io/composer-plugin",
+              "description": "This plugin enables downloading via Repman by adding a distribution mirror URL for all your dependencies (without need to update the file).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246783867,
+                "language": "PHP",
+                "last_commit": "2024-02-27T12:27:56Z",
+                "owner": "repman-io",
+                "repo": "composer-plugin",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Repman"
         }
       ],
-      "title": "Setup a Packagist Mirror"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Composer Repositories"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "repman.io",
-          "description": "& repman-io/repman - A Private PHP Package Repository Manager & Packagist Proxy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-02-06T14:56:51Z",
-            "owner": "repman-io",
-            "repo": "repman",
-            "stars": 583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "repman-io/composer-plugin",
-          "description": "This plugin enables downloading via Repman by adding a distribution mirror URL for all your dependencies (without need to update the file).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-02-27T12:27:56Z",
-            "owner": "repman-io",
-            "repo": "composer-plugin",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Repman"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1237,6 +1320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146350116,
             "language": "PHP",
             "last_commit": "2026-04-29T16:06:01Z",
             "owner": "vtsykun",
@@ -1251,6 +1335,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27199907,
             "language": "PHP",
             "last_commit": "2022-07-20T13:49:13Z",
             "owner": "Rarst",
@@ -1265,87 +1350,89 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98823783,
             "language": "Shell",
             "last_commit": "2021-09-22T16:30:04Z",
             "owner": "lukaszlach",
             "repo": "satis-server",
             "stars": 116
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Satisfy",
+              "description": "Satis composer repository manager with a Web UI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10504418,
+                "language": "PHP",
+                "last_commit": "2025-05-28T17:32:27Z",
+                "owner": "project-satisfy",
+                "repo": "satisfy",
+                "stars": 549
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitLab-Composer",
+              "description": "This is a branch/tag indexer for GitLab repositories.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12308221,
+                "language": "PHP",
+                "last_commit": "2018-08-06T12:10:28Z",
+                "owner": "wemakecustom",
+                "repo": "gitlab-composer",
+                "stars": 162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Satis Control Panel",
+              "description": "A simple web UI for managing your Satis Repository with optional CI integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48244490,
+                "language": "PHP",
+                "last_commit": "2019-01-10T12:45:59Z",
+                "owner": "realshadow",
+                "repo": "satis-control-panel",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Satis Go",
+              "description": "A web server for managing Satis configuration and hosting the generated Composer repository.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27511050,
+                "language": "Go",
+                "last_commit": "2020-06-12T20:59:13Z",
+                "owner": "benschw",
+                "repo": "satis-go",
+                "stars": 97
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Satis"
         }
       ],
       "title": "Packagist-compatible repositories"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Satisfy",
-          "description": "Satis composer repository manager with a Web UI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-05-28T17:32:27Z",
-            "owner": "project-satisfy",
-            "repo": "satisfy",
-            "stars": 549
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GitLab-Composer",
-          "description": "This is a branch/tag indexer for GitLab repositories.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-08-06T12:10:28Z",
-            "owner": "wemakecustom",
-            "repo": "gitlab-composer",
-            "stars": 162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Satis Control Panel",
-          "description": "A simple web UI for managing your Satis Repository with optional CI integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-01-10T12:45:59Z",
-            "owner": "realshadow",
-            "repo": "satis-control-panel",
-            "stars": 153
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Satis Go",
-          "description": "A web server for managing Satis configuration and hosting the generated Composer repository.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-06-12T20:59:13Z",
-            "owner": "benschw",
-            "repo": "satis-go",
-            "stars": 97
-          }
-        }
-      ],
-      "title": "Satis"
-    },
-    {
-      "description": "To the extent possible under law, Jens A. Koch has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "Copyright"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:28:44.423Z",
+    "last_updated": "2026-08-19T12:22:53.927Z",
     "original_repository": "jakoch/awesome-composer",
+    "original_repository_id": 50202814,
     "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
     "enhanced_repository": "enhansome/enhansome-composer",
     "enhanced_repository_description": null,
