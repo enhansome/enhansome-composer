@@ -15,7 +15,7 @@
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29500
+            "stars": 29503
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29500
+            "stars": 29503
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29500
+            "stars": 29503
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-05-29T17:59:07Z",
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4212
+            "stars": 4213
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-08-01T23:07:03Z",
             "owner": "mcaskill",
             "repo": "composer-plugin-exclude-files",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -1430,7 +1430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:22:53.927Z",
+    "last_updated": "2026-08-20T03:28:40.357Z",
     "original_repository": "jakoch/awesome-composer",
     "original_repository_id": 50202814,
     "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
