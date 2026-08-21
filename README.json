@@ -15,7 +15,7 @@
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29503
+            "stars": 29504
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29503
+            "stars": 29504
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-13T19:15:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29503
+            "stars": 29504
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-10T01:43:48Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1719
+            "stars": 1721
           }
         },
         {
@@ -927,7 +927,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5384
+            "stars": 5385
           }
         },
         {
@@ -1430,7 +1430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:28:40.357Z",
+    "last_updated": "2026-08-21T03:35:20.357Z",
     "original_repository": "jakoch/awesome-composer",
     "original_repository_id": 50202814,
     "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
