@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-13T19:15:07Z",
+            "last_commit": "2026-08-21T19:23:07Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29504
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-13T19:15:07Z",
+            "last_commit": "2026-08-21T19:23:07Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29504
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-13T19:15:07Z",
+            "last_commit": "2026-08-21T19:23:07Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29504
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 50372644,
             "language": "PHP",
-            "last_commit": "2026-08-17T06:44:42Z",
+            "last_commit": "2026-08-22T02:55:07Z",
             "owner": "Ocramius",
             "repo": "PackageVersions",
             "stars": 3171
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-10T01:43:48Z",
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1721
+            "stars": 1722
           }
         },
         {
@@ -987,7 +987,7 @@
             "last_commit": "2026-08-16T22:02:50Z",
             "owner": "ergebnis",
             "repo": "composer-normalize",
-            "stars": 1119
+            "stars": 1120
           }
         },
         {
@@ -999,10 +999,10 @@
             "archived": false,
             "id": 46859018,
             "language": "PHP",
-            "last_commit": "2026-08-14T07:06:43Z",
+            "last_commit": "2026-08-22T01:44:26Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
-            "stars": 1009
+            "stars": 1010
           }
         },
         {
@@ -1325,7 +1325,7 @@
             "last_commit": "2026-04-29T16:06:01Z",
             "owner": "vtsykun",
             "repo": "packeton",
-            "stars": 539
+            "stars": 540
           }
         },
         {
@@ -1430,7 +1430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:35:20.357Z",
+    "last_updated": "2026-08-22T03:25:04.185Z",
     "original_repository": "jakoch/awesome-composer",
     "original_repository_id": 50202814,
     "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
