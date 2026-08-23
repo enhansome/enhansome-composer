@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T19:23:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29504
+            "stars": 29506
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T19:23:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29504
+            "stars": 29506
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T19:23:07Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29504
+            "stars": 29506
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-05-29T17:59:07Z",
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4213
+            "stars": 4212
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 50372644,
             "language": "PHP",
-            "last_commit": "2026-08-22T02:55:07Z",
+            "last_commit": "2026-08-23T01:38:47Z",
             "owner": "Ocramius",
             "repo": "PackageVersions",
             "stars": 3171
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-11T12:23:21Z",
             "owner": "shipmonk-rnd",
             "repo": "composer-dependency-analyser",
-            "stars": 625
+            "stars": 626
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2026-08-01T09:55:22Z",
             "owner": "composer",
             "repo": "xdebug-handler",
-            "stars": 2565
+            "stars": 2566
           }
         },
         {
@@ -957,7 +957,7 @@
             "last_commit": "2026-04-27T02:02:52Z",
             "owner": "composer-unused",
             "repo": "composer-unused",
-            "stars": 1685
+            "stars": 1686
           }
         },
         {
@@ -987,7 +987,7 @@
             "last_commit": "2026-08-16T22:02:50Z",
             "owner": "ergebnis",
             "repo": "composer-normalize",
-            "stars": 1120
+            "stars": 1121
           }
         },
         {
@@ -999,7 +999,7 @@
             "archived": false,
             "id": 46859018,
             "language": "PHP",
-            "last_commit": "2026-08-22T01:44:26Z",
+            "last_commit": "2026-08-23T02:13:29Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
             "stars": 1010
@@ -1430,7 +1430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:25:04.185Z",
+    "last_updated": "2026-08-23T03:35:31.099Z",
     "original_repository": "jakoch/awesome-composer",
     "original_repository_id": 50202814,
     "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
