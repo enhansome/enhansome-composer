@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-21T19:23:07Z",
+            "last_commit": "2026-08-24T06:46:17Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29503
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-21T19:23:07Z",
+            "last_commit": "2026-08-24T06:46:17Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29503
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-21T19:23:07Z",
+            "last_commit": "2026-08-24T06:46:17Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29503
@@ -888,7 +888,7 @@
             "archived": false,
             "id": 990531132,
             "language": "PHP",
-            "last_commit": "2026-08-23T10:36:04Z",
+            "last_commit": "2026-08-24T09:58:39Z",
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3
@@ -957,7 +957,7 @@
             "last_commit": "2026-04-27T02:02:52Z",
             "owner": "composer-unused",
             "repo": "composer-unused",
-            "stars": 1686
+            "stars": 1687
           }
         },
         {
@@ -1274,6 +1274,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "https://github.com/slince/composer-registry-manager",
+              "description": "The plugin helps you to switch between different composer repositories.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84933609,
+                "language": "PHP",
+                "last_commit": "2023-03-04T08:50:59Z",
+                "owner": "slince",
+                "repo": "composer-registry-manager",
+                "stars": 557
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Registry Manager"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fxpio/tug",
+              "description": "Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages, which are hosted on GitHub or GitLab services.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138516381,
+                "language": "TypeScript",
+                "last_commit": "2022-08-18T12:30:13Z",
+                "owner": "fxpio",
+                "repo": "tug",
+                "stars": 43
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Private repositories"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Private Packagist API Client",
+              "description": "A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123302282,
+                "language": "PHP",
+                "last_commit": "2026-08-20T07:35:38Z",
+                "owner": "packagist",
+                "repo": "private-packagist-api-client",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Private Packagist"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "repman.io",
               "description": "& repman-io/repman - A Private PHP Package Repository Manager & Packagist Proxy.",
               "children": [],
@@ -1281,10 +1347,10 @@
                 "archived": false,
                 "id": 246783755,
                 "language": "PHP",
-                "last_commit": "2026-02-06T14:56:51Z",
+                "last_commit": "2026-08-24T11:23:45Z",
                 "owner": "repman-io",
                 "repo": "repman",
-                "stars": 583
+                "stars": 582
               }
             },
             {
@@ -1430,7 +1496,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:38:26.223Z",
+    "last_updated": "2026-08-24T14:15:07.460Z",
     "original_repository": "jakoch/awesome-composer",
     "original_repository_id": 50202814,
     "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
