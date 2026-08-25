@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "composer/composer",
           "description": null,
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "Source",
+          "title": "composer/composer",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1274,7 +1274,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/slince/composer-registry-manager",
+              "title": "slince/composer-registry-manager",
               "description": "The plugin helps you to switch between different composer repositories.",
               "children": [],
               "repo_info": {
@@ -1496,7 +1496,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:30:42.422Z",
+    "last_updated": "2026-08-25T06:07:48.244Z",
     "original_repository": "jakoch/awesome-composer",
     "original_repository_id": 50202814,
     "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
