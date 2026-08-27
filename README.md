@@ -12,9 +12,9 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,
 
 ## Composer
 
-* [GitHub](https://github.com/composer/composer) ⭐ 29,504 | 🐛 154 | 🌐 PHP | 📅 2026-08-27
-* [Issues](https://github.com/composer/composer/issues) ⭐ 29,504 | 🐛 154 | 🌐 PHP | 📅 2026-08-27
-* [Source](https://github.com/composer/composer/tree/HEAD/src/Composer) ⭐ 29,504 | 🐛 154 | 🌐 PHP | 📅 2026-08-27
+* [GitHub](https://github.com/composer/composer) ⭐ 29,504 | 🐛 155 | 🌐 PHP | 📅 2026-08-27
+* [Issues](https://github.com/composer/composer/issues) ⭐ 29,504 | 🐛 155 | 🌐 PHP | 📅 2026-08-27
+* [Source](https://github.com/composer/composer/tree/HEAD/src/Composer) ⭐ 29,504 | 🐛 155 | 🌐 PHP | 📅 2026-08-27
 * [Composer Installers](https://github.com/composer/installers) ⭐ 1,441 | 🐛 26 | 🌐 PHP | 📅 2026-07-01 - Composer installers for multiple frameworks.
 * [Official Website](https://getcomposer.org/)
 * [Documentation](https://getcomposer.org/doc/)
@@ -101,7 +101,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,
 
 * [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) ⭐ 5,385 | 🐛 62 | 🌐 HTML | 📅 2023-10-02 - Enables you to navigate Composer/NPM dependencies on GitHub.
 * [Composer/Xdebug-Handler](https://github.com/composer/xdebug-handler) ⭐ 2,566 | 🐛 0 | 🌐 PHP | 📅 2026-08-01 - Helps you to restart a CLI process without loading the xdebug extension.
-* [Composer-Unused](https://github.com/composer-unused/composer-unused) ⭐ 1,686 | 🐛 14 | 🌐 PHP | 📅 2026-04-27 - A CLI tool, which scans your code and shows unused Composer dependencies.
+* [Composer-Unused](https://github.com/composer-unused/composer-unused) ⭐ 1,687 | 🐛 14 | 🌐 PHP | 📅 2026-04-27 - A CLI tool, which scans your code and shows unused Composer dependencies.
 * [Studio](https://github.com/franzliedke/studio) ⭐ 1,137 | 🐛 24 | 🌐 PHP | 📅 2024-04-21 - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project.
 * [Composer-Normalize](https://github.com/ergebnis/composer-normalize) ⭐ 1,121 | 🐛 27 | 🌐 PHP | 📅 2026-08-23 - The plugin helps to keep your `composer.json` file(s) consistent by restructuring and sorting entries (normalizing).
 * [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ⭐ 1,010 | 🐛 45 | 🌐 PHP | 📅 2026-08-27 - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
