@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-24T06:46:17Z",
+            "last_commit": "2026-08-27T11:21:20Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29504
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-24T06:46:17Z",
+            "last_commit": "2026-08-27T11:21:20Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29504
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-24T06:46:17Z",
+            "last_commit": "2026-08-27T11:21:20Z",
             "owner": "composer",
             "repo": "composer",
             "stars": 29504
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 50372644,
             "language": "PHP",
-            "last_commit": "2026-08-26T00:34:25Z",
+            "last_commit": "2026-08-27T11:16:21Z",
             "owner": "Ocramius",
             "repo": "PackageVersions",
             "stars": 3171
@@ -156,7 +156,7 @@
             "last_commit": "2024-06-22T09:18:12Z",
             "owner": "BrainMaestro",
             "repo": "composer-git-hooks",
-            "stars": 1086
+            "stars": 1085
           }
         },
         {
@@ -999,7 +999,7 @@
             "archived": false,
             "id": 46859018,
             "language": "PHP",
-            "last_commit": "2026-08-26T00:34:23Z",
+            "last_commit": "2026-08-27T08:50:39Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
             "stars": 1010
@@ -1325,7 +1325,7 @@
                 "archived": false,
                 "id": 123302282,
                 "language": "PHP",
-                "last_commit": "2026-08-25T12:45:56Z",
+                "last_commit": "2026-08-26T08:32:03Z",
                 "owner": "packagist",
                 "repo": "private-packagist-api-client",
                 "stars": 37
@@ -1453,7 +1453,7 @@
                 "last_commit": "2018-08-06T12:10:28Z",
                 "owner": "wemakecustom",
                 "repo": "gitlab-composer",
-                "stars": 162
+                "stars": 161
               }
             },
             {
@@ -1496,9 +1496,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:39:08.372Z",
-    "original_repository": "jakoch/awesome-composer",
-    "original_repository_id": 50202814,
+    "last_updated": "2026-08-27T11:30:55.759Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 50202814,
+      "language": null,
+      "last_commit": "2026-07-26T14:48:03Z",
+      "owner": "jakoch",
+      "repo": "awesome-composer",
+      "stars": 907
+    },
     "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
     "enhanced_repository": "enhansome/enhansome-composer",
     "enhanced_repository_description": null,

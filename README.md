@@ -12,9 +12,9 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,
 
 ## Composer
 
-* [GitHub](https://github.com/composer/composer) ⭐ 29,504 | 🐛 161 | 🌐 PHP | 📅 2026-08-24
-* [Issues](https://github.com/composer/composer/issues) ⭐ 29,504 | 🐛 161 | 🌐 PHP | 📅 2026-08-24
-* [Source](https://github.com/composer/composer/tree/HEAD/src/Composer) ⭐ 29,504 | 🐛 161 | 🌐 PHP | 📅 2026-08-24
+* [GitHub](https://github.com/composer/composer) ⭐ 29,504 | 🐛 154 | 🌐 PHP | 📅 2026-08-27
+* [Issues](https://github.com/composer/composer/issues) ⭐ 29,504 | 🐛 154 | 🌐 PHP | 📅 2026-08-27
+* [Source](https://github.com/composer/composer/tree/HEAD/src/Composer) ⭐ 29,504 | 🐛 154 | 🌐 PHP | 📅 2026-08-27
 * [Composer Installers](https://github.com/composer/installers) ⭐ 1,441 | 🐛 26 | 🌐 PHP | 📅 2026-07-01 - Composer installers for multiple frameworks.
 * [Official Website](https://getcomposer.org/)
 * [Documentation](https://getcomposer.org/doc/)
@@ -40,15 +40,15 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,
 
 * [Prestissimo](https://github.com/hirak/prestissimo) ⭐ 6,118 | 🐛 40 | 🌐 PHP | 📅 2022-12-03 - A parallel downloader using `phpext_curl`.
 * [Symfony-Flex](https://github.com/symfony/flex) ⭐ 4,211 | 🐛 21 | 🌐 PHP | 📅 2026-05-29 - Provides [recipe-based](https://github.com/symfony/recipes) ⭐ 1,025 | 🐛 45 | 🌐 PHP | 📅 2026-08-20 installation and configuration management for Symfony packages.
-* [PackageVersions](https://github.com/Ocramius/PackageVersions) ⭐ 3,171 | 🐛 2 | 🌐 PHP | 📅 2026-08-26 - Provides a very quick and easy access to installed composer dependency versions.
+* [PackageVersions](https://github.com/Ocramius/PackageVersions) ⭐ 3,171 | 🐛 2 | 🌐 PHP | 📅 2026-08-27 - Provides a very quick and easy access to installed composer dependency versions.
 * [Composer-Patches](https://github.com/cweagans/composer-patches) ⭐ 1,723 | 🐛 56 | 🌐 PHP | 📅 2026-08-10 - The plugin applies a patch from a local or remote file to any required package.
 * [PackageVersions Deprecated](https://github.com/composer/package-versions-deprecated) ⚠️ Archived - Is a fork of Ocramius/PackageVersions providing compatibility with Composer 1 and 2 on PHP 7+.
-* [Composer-Git-Hooks](https://github.com/BrainMaestro/composer-git-hooks) ⭐ 1,086 | 🐛 12 | 🌐 PHP | 📅 2024-06-22 - A library for easily managing git hooks in your composer config.
+* [Composer-Git-Hooks](https://github.com/BrainMaestro/composer-git-hooks) ⭐ 1,085 | 🐛 12 | 🌐 PHP | 📅 2024-06-22 - A library for easily managing git hooks in your composer config.
 * [Composer-Merge-Plugin](https://github.com/wikimedia/composer-merge-plugin) ⭐ 1,016 | 🐛 72 | 🌐 PHP | 📅 2026-02-17 - Merges multiple `composer.json` files at Composer runtime.
 * [Graph-Composer](https://github.com/clue/graph-composer) ⭐ 936 | 🐛 8 | 🌐 PHP | 📅 2025-08-06 - Provides a graph visualization for your project's `composer.json` and its dependencies.
 * [Composer-Asset-Plugin](https://github.com/fxpio/composer-asset-plugin) ⭐ 887 | 🐛 15 | 🌐 PHP | 📅 2023-02-28 - A npm/Bower Dependencies Manager for Composer.
 * [Composer-Dependency-Analyzer](https://github.com/shipmonk-rnd/composer-dependency-analyser) ⭐ 626 | 🐛 19 | 🌐 PHP | 📅 2026-08-11 - The plugin helps to find dependency issues, including dead, unused, shadow and misplaced dependencies.
-* [PHPCodeSniffer-Composer-Installer](https://github.com/PHPCSStandards/composer-installer) ⭐ 601 | 🐛 6 | 🌐 PHP | 📅 2026-08-07 - The plugin enables you to install [PHP\_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) ⭐ 1,549 | 🐛 197 | 🌐 PHP | 📅 2026-08-21 coding standards (rulesets).
+* [PHPCodeSniffer-Composer-Installer](https://github.com/PHPCSStandards/composer-installer) ⭐ 601 | 🐛 6 | 🌐 PHP | 📅 2026-08-07 - The plugin enables you to install [PHP\_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) ⭐ 1,551 | 🐛 199 | 🌐 PHP | 📅 2026-08-21 coding standards (rulesets).
 * [Composer-Changelogs](https://github.com/pyrech/composer-changelogs) ⭐ 588 | 🐛 1 | 🌐 PHP | 📅 2025-11-27 - Provides a summary of the updates with links to changelog/releasenote/tag. The output is ready to be pasted into the commit message when updating the composer.lock file.
 * [Composer Registry Manager](https://github.com/slince/composer-registry-manager) ⭐ 557 | 🐛 4 | 🌐 PHP | 📅 2023-03-04 - Enables you to switch between different composer repositories.
 * [Composer-Bin-Plugin](https://github.com/bamarni/composer-bin-plugin) ⭐ 530 | 🐛 7 | 🌐 PHP | 📅 2026-02-04 - Adds support for managing dependencies for multiple packages in a single repository or isolate bin dependencies.
@@ -104,7 +104,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,
 * [Composer-Unused](https://github.com/composer-unused/composer-unused) ⭐ 1,686 | 🐛 14 | 🌐 PHP | 📅 2026-04-27 - A CLI tool, which scans your code and shows unused Composer dependencies.
 * [Studio](https://github.com/franzliedke/studio) ⭐ 1,137 | 🐛 24 | 🌐 PHP | 📅 2024-04-21 - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project.
 * [Composer-Normalize](https://github.com/ergebnis/composer-normalize) ⭐ 1,121 | 🐛 27 | 🌐 PHP | 📅 2026-08-23 - The plugin helps to keep your `composer.json` file(s) consistent by restructuring and sorting entries (normalizing).
-* [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ⭐ 1,010 | 🐛 45 | 🌐 PHP | 📅 2026-08-26 - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
+* [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) ⭐ 1,010 | 🐛 45 | 🌐 PHP | 📅 2026-08-27 - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
 * [Composer-Service](https://github.com/pborreli/composer-service) ⭐ 173 | 🐛 32 | 🌐 PHP | 📅 2021-07-27 - Enables you to run Composer as a service on a remote server.
 * [Bramus/Composer-Autocomplete](https://github.com/bramus/composer-autocomplete) ⭐ 98 | 🐛 2 | 📅 2022-02-01 - A Bash/Shell autocompletion script for Composer.
 * [Composer-Yaml](https://github.com/igorw/composer-yaml) ⭐ 54 | 🐛 4 | 🌐 PHP | 📅 2017-02-03 - This tool converts `composer.yml` to `composer.json`.
@@ -224,7 +224,7 @@ About metadata mirrors: <https://packagist.org/mirrors>
 
 ### Private Packagist
 
-* [Private Packagist API Client](https://github.com/packagist/private-packagist-api-client) ⭐ 37 | 🐛 1 | 🌐 PHP | 📅 2026-08-25 - A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.
+* [Private Packagist API Client](https://github.com/packagist/private-packagist-api-client) ⭐ 37 | 🐛 1 | 🌐 PHP | 📅 2026-08-26 - A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.
 * [Private Packagist Cloud](https://packagist.com) - A Composer Repository as a Service for private packages and to mirror packages from other repositories.
 * [Private Packagist Enterprise](https://packagist.com) - On-premise self-hosted version of Private Packagist.
 
@@ -248,7 +248,7 @@ About metadata mirrors: <https://packagist.org/mirrors>
 ### Satis
 
 * [Satisfy](https://github.com/project-satisfy/satisfy) ⭐ 549 | 🐛 8 | 🌐 PHP | 📅 2025-05-28 - Satis composer repository manager with a Web UI.
-* [GitLab-Composer](https://github.com/wemakecustom/gitlab-composer) ⭐ 162 | 🐛 6 | 🌐 PHP | 📅 2018-08-06 - This is a branch/tag indexer for GitLab repositories.
+* [GitLab-Composer](https://github.com/wemakecustom/gitlab-composer) ⭐ 161 | 🐛 6 | 🌐 PHP | 📅 2018-08-06 - This is a branch/tag indexer for GitLab repositories.
 * [Satis Control Panel](https://github.com/realshadow/satis-control-panel) ⭐ 152 | 🐛 8 | 🌐 PHP | 📅 2019-01-10 - A simple web UI for managing your Satis Repository with optional CI integration.
 * [Satis Go](https://github.com/benschw/satis-go) ⭐ 97 | 🐛 5 | 🌐 Go | 📅 2020-06-12 - A web server for managing Satis configuration and hosting the generated Composer repository.
 
@@ -266,4 +266,4 @@ To the extent possible under law, [Jens A. Koch](https://github.com/jakoch) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
