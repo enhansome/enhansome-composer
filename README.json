@@ -12,11 +12,12 @@
             "archived": false,
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-27T12:06:55Z",
+            "last_commit": "2026-08-28T11:58:01Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29504
-          }
+            "stars": 29505
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-27T12:06:55Z",
+            "last_commit": "2026-08-28T11:58:01Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29504
-          }
+            "stars": 29505
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-27T12:06:55Z",
+            "last_commit": "2026-08-28T11:58:01Z",
             "owner": "composer",
             "repo": "composer",
-            "stars": 29504
-          }
+            "stars": 29505
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "composer",
             "repo": "installers",
             "stars": 1441
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         }
       ],
       "title": "Composer"
@@ -81,8 +85,9 @@
             "last_commit": "2022-12-03T08:11:28Z",
             "owner": "hirak",
             "repo": "prestissimo",
-            "stars": 6118
-          }
+            "stars": 6117
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "symfony",
             "repo": "flex",
             "stars": 4211
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 50372644,
             "language": "PHP",
-            "last_commit": "2026-08-27T11:16:21Z",
+            "last_commit": "2026-08-28T06:03:01Z",
             "owner": "Ocramius",
             "repo": "PackageVersions",
             "stars": 3171
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "cweagans",
             "repo": "composer-patches",
             "stars": 1723
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "composer",
             "repo": "package-versions-deprecated",
             "stars": 1521
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "BrainMaestro",
             "repo": "composer-git-hooks",
             "stars": 1085
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "wikimedia",
             "repo": "composer-merge-plugin",
             "stars": 1016
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "clue",
             "repo": "graph-composer",
             "stars": 936
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "fxpio",
             "repo": "composer-asset-plugin",
             "stars": 887
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "shipmonk-rnd",
             "repo": "composer-dependency-analyser",
             "stars": 626
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "PHPCSStandards",
             "repo": "composer-installer",
             "stars": 601
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "pyrech",
             "repo": "composer-changelogs",
             "stars": 588
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "slince",
             "repo": "composer-registry-manager",
             "stars": 557
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "bamarni",
             "repo": "composer-bin-plugin",
             "stars": 530
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "beberlei",
             "repo": "composer-monorepo-plugin",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "vaimo",
             "repo": "composer-patches",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "soullivaneuh",
             "repo": "composer-versions-check",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "ffraenz",
             "repo": "private-composer-installer",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "Ayesh",
             "repo": "Composer-Preload",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "IonBazan",
             "repo": "composer-diff",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "jderusse",
             "repo": "composer-warmup",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "fxpio",
             "repo": "foxy",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "Letudiant",
             "repo": "composer-shared-package-plugin",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "typisttech",
             "repo": "imposter-plugin",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "barryvdh",
             "repo": "composer-cleanup-plugin",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "mnsami",
             "repo": "composer-custom-directory-installer",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "dg",
             "repo": "composer-cleaner",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "thecodingmachine",
             "repo": "nodejs-installer",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "bamarni",
             "repo": "composition",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "ramsey",
             "repo": "composer-repl",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -531,8 +565,9 @@
             "last_commit": "2026-08-18T11:36:53Z",
             "owner": "SanderSander",
             "repo": "composer-link",
-            "stars": 92
-          }
+            "stars": 93
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "CycloneDX",
             "repo": "cyclonedx-php-composer",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "ssx",
             "repo": "skrub",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "kalessil",
             "repo": "production-dependencies-guard",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "netresearch",
             "repo": "composer-patches-plugin",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "naderman",
             "repo": "composer-aws",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "mindplay-dk",
             "repo": "composer-locator",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -637,7 +678,8 @@
             "owner": "mcaskill",
             "repo": "composer-plugin-exclude-files",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -652,7 +694,8 @@
             "owner": "liborm85",
             "repo": "composer-vendor-cleaner",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -667,7 +710,8 @@
             "owner": "theofidry",
             "repo": "composer-inheritance-plugin",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -682,7 +726,8 @@
             "owner": "isaaceindhoven",
             "repo": "composer-velocita",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -697,7 +742,8 @@
             "owner": "webysther",
             "repo": "composer-plugin-qa",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -712,7 +758,8 @@
             "owner": "lichunqiang",
             "repo": "composer-ignore-plugin",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -727,7 +774,8 @@
             "owner": "e-picas",
             "repo": "composer-symlinker",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -742,7 +790,8 @@
             "owner": "drupal",
             "repo": "core-vendor-hardening",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -757,7 +806,8 @@
             "owner": "narrowspark",
             "repo": "automatic",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -772,7 +822,8 @@
             "owner": "civicrm",
             "repo": "composer-compile-plugin",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -787,7 +838,8 @@
             "owner": "mageops",
             "repo": "php-composer-plugin-patchset",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -802,7 +854,8 @@
             "owner": "civicrm",
             "repo": "composer-downloads-plugin",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -817,7 +870,8 @@
             "owner": "ThaDafinser",
             "repo": "PackageInfo",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -832,7 +886,8 @@
             "owner": "mariusbuescher",
             "repo": "node-composer",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -847,7 +902,8 @@
             "owner": "ngyuki",
             "repo": "composer-curl-plugin",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -862,7 +918,8 @@
             "owner": "krakphp",
             "repo": "php-inc",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -877,7 +934,8 @@
             "owner": "nfreear",
             "repo": "composer-suggest",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -888,11 +946,12 @@
             "archived": false,
             "id": 990531132,
             "language": "PHP",
-            "last_commit": "2026-08-25T23:15:28Z",
+            "last_commit": "2026-08-28T02:48:57Z",
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -907,7 +966,8 @@
             "owner": "wazum",
             "repo": "composer-fanfare",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         }
       ],
       "title": "Plugins"
@@ -928,7 +988,8 @@
             "owner": "OctoLinker",
             "repo": "OctoLinker",
             "stars": 5385
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -943,7 +1004,8 @@
             "owner": "composer",
             "repo": "xdebug-handler",
             "stars": 2566
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -958,7 +1020,8 @@
             "owner": "composer-unused",
             "repo": "composer-unused",
             "stars": 1687
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -973,7 +1036,8 @@
             "owner": "franzliedke",
             "repo": "studio",
             "stars": 1137
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -988,7 +1052,8 @@
             "owner": "ergebnis",
             "repo": "composer-normalize",
             "stars": 1121
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -999,11 +1064,12 @@
             "archived": false,
             "id": 46859018,
             "language": "PHP",
-            "last_commit": "2026-08-27T08:50:39Z",
+            "last_commit": "2026-08-28T04:57:36Z",
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
             "stars": 1010
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1018,7 +1084,8 @@
             "owner": "pborreli",
             "repo": "composer-service",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1033,7 +1100,8 @@
             "owner": "bramus",
             "repo": "composer-autocomplete",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1048,7 +1116,8 @@
             "owner": "igorw",
             "repo": "composer-yaml",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1063,7 +1132,8 @@
             "owner": "dereuromark",
             "repo": "composer-prefer-lowest",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         }
       ],
       "title": "Tools"
@@ -1084,7 +1154,8 @@
             "owner": "Incenteev",
             "repo": "ParameterHandler",
             "stars": 931
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1170,8 @@
             "owner": "sensiolabs",
             "repo": "melody",
             "stars": 395
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1186,8 @@
             "owner": "jakoch",
             "repo": "phantomjs-installer",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1202,8 @@
             "owner": "tommy-muehle",
             "repo": "tooly-composer-script",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1144,7 +1218,8 @@
             "owner": "neronmoon",
             "repo": "scriptsdev",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1234,8 @@
             "owner": "villfa",
             "repo": "composer-substitution-plugin",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1250,8 @@
             "owner": "raphaelstolt",
             "repo": "composer-travis-lint",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1189,7 +1266,8 @@
             "owner": "raphaelstolt",
             "repo": "composer-multitest",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1204,7 +1282,8 @@
             "owner": "0xch",
             "repo": "composer-vendor-cleanup",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         }
       ],
       "title": "Scripts"
@@ -1227,7 +1306,8 @@
                 "owner": "webysther",
                 "repo": "packagist-mirror",
                 "stars": 200
-              }
+              },
+              "first_seen": "2026-08-28T14:35:30.506Z"
             },
             {
               "node_type": "item",
@@ -1242,7 +1322,8 @@
                 "owner": "IndraGunawan",
                 "repo": "packagist-mirror",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T14:35:30.506Z"
             },
             {
               "node_type": "item",
@@ -1257,7 +1338,8 @@
                 "owner": "webysther",
                 "repo": "packagist-mirror-docker",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T14:35:30.506Z"
             }
           ],
           "description": null,
@@ -1285,7 +1367,8 @@
                 "owner": "slince",
                 "repo": "composer-registry-manager",
                 "stars": 557
-              }
+              },
+              "first_seen": "2026-08-28T14:35:30.506Z"
             }
           ],
           "description": null,
@@ -1307,7 +1390,8 @@
                 "owner": "fxpio",
                 "repo": "tug",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T14:35:30.506Z"
             }
           ],
           "description": null,
@@ -1329,7 +1413,8 @@
                 "owner": "packagist",
                 "repo": "private-packagist-api-client",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T14:35:30.506Z"
             }
           ],
           "description": null,
@@ -1351,7 +1436,8 @@
                 "owner": "repman-io",
                 "repo": "repman",
                 "stars": 582
-              }
+              },
+              "first_seen": "2026-08-28T14:35:30.506Z"
             },
             {
               "node_type": "item",
@@ -1366,7 +1452,8 @@
                 "owner": "repman-io",
                 "repo": "composer-plugin",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T14:35:30.506Z"
             }
           ],
           "description": null,
@@ -1392,7 +1479,8 @@
             "owner": "vtsykun",
             "repo": "packeton",
             "stars": 540
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1407,7 +1495,8 @@
             "owner": "Rarst",
             "repo": "release-belt",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "node_type": "item",
@@ -1422,7 +1511,8 @@
             "owner": "lukaszlach",
             "repo": "satis-server",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
           "children": [
@@ -1439,7 +1529,8 @@
                 "owner": "project-satisfy",
                 "repo": "satisfy",
                 "stars": 549
-              }
+              },
+              "first_seen": "2026-08-28T14:35:30.506Z"
             },
             {
               "node_type": "item",
@@ -1454,7 +1545,8 @@
                 "owner": "wemakecustom",
                 "repo": "gitlab-composer",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T14:35:30.506Z"
             },
             {
               "node_type": "item",
@@ -1469,7 +1561,8 @@
                 "owner": "realshadow",
                 "repo": "satis-control-panel",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T14:35:30.506Z"
             },
             {
               "node_type": "item",
@@ -1484,7 +1577,8 @@
                 "owner": "benschw",
                 "repo": "satis-go",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T14:35:30.506Z"
             }
           ],
           "description": null,
@@ -1496,7 +1590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:05:39.963Z",
+    "last_updated": "2026-08-28T14:35:30.506Z",
     "original_repository_info": {
       "archived": false,
       "id": 50202814,
