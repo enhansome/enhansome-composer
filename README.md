@@ -6,15 +6,15 @@
 
 > A curated list of resources for Composer, Packagist, Satis, Plugins, Scripts, Videos, Tutorials.
 
-You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,671 | 🐛 85 | 📅 2026-07-13.
+You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,672 | 🐛 85 | 📅 2026-07-13.
 
 *Please read the [contribution guidelines](https://github.com/jakoch/awesome-composer/blob/main/.github/CONTRIBUTING.md) ⭐ 907 | 🐛 0 | 📅 2026-07-26 before contributing.*
 
 ## Composer
 
-* [GitHub](https://github.com/composer/composer) ⭐ 29,506 | 🐛 155 | 🌐 PHP | 📅 2026-08-28
-* [Issues](https://github.com/composer/composer/issues) ⭐ 29,506 | 🐛 155 | 🌐 PHP | 📅 2026-08-28
-* [Source](https://github.com/composer/composer/tree/HEAD/src/Composer) ⭐ 29,506 | 🐛 155 | 🌐 PHP | 📅 2026-08-28
+* [GitHub](https://github.com/composer/composer) ⭐ 29,507 | 🐛 155 | 🌐 PHP | 📅 2026-08-28
+* [Issues](https://github.com/composer/composer/issues) ⭐ 29,507 | 🐛 155 | 🌐 PHP | 📅 2026-08-28
+* [Source](https://github.com/composer/composer/tree/HEAD/src/Composer) ⭐ 29,507 | 🐛 155 | 🌐 PHP | 📅 2026-08-28
 * [Composer Installers](https://github.com/composer/installers) ⭐ 1,441 | 🐛 26 | 🌐 PHP | 📅 2026-07-01 - Composer installers for multiple frameworks.
 * [Official Website](https://getcomposer.org/)
 * [Documentation](https://getcomposer.org/doc/)
@@ -39,7 +39,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,
 ## Plugins
 
 * [Prestissimo](https://github.com/hirak/prestissimo) ⭐ 6,117 | 🐛 40 | 🌐 PHP | 📅 2022-12-03 - A parallel downloader using `phpext_curl`.
-* [Symfony-Flex](https://github.com/symfony/flex) ⭐ 4,211 | 🐛 21 | 🌐 PHP | 📅 2026-05-29 - Provides [recipe-based](https://github.com/symfony/recipes) ⭐ 1,025 | 🐛 48 | 🌐 PHP | 📅 2026-08-28 installation and configuration management for Symfony packages.
+* [Symfony-Flex](https://github.com/symfony/flex) ⭐ 4,211 | 🐛 21 | 🌐 PHP | 📅 2026-05-29 - Provides [recipe-based](https://github.com/symfony/recipes) ⭐ 1,025 | 🐛 49 | 🌐 PHP | 📅 2026-08-29 installation and configuration management for Symfony packages.
 * [PackageVersions](https://github.com/Ocramius/PackageVersions) ⭐ 3,171 | 🐛 2 | 🌐 PHP | 📅 2026-08-28 - Provides a very quick and easy access to installed composer dependency versions.
 * [Composer-Patches](https://github.com/cweagans/composer-patches) ⭐ 1,723 | 🐛 56 | 🌐 PHP | 📅 2026-08-10 - The plugin applies a patch from a local or remote file to any required package.
 * [PackageVersions Deprecated](https://github.com/composer/package-versions-deprecated) ⚠️ Archived - Is a fork of Ocramius/PackageVersions providing compatibility with Composer 1 and 2 on PHP 7+.
