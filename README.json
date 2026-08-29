@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dependency Manager for PHP",
+            "homepage": "https://getcomposer.org/",
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-28T11:58:01Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:14:04Z",
+            "open_issues": 155,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29505
+            "stars": 29506,
+            "topics": [
+              "composer",
+              "dependency-manager",
+              "package-manager",
+              "packages",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -26,12 +37,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dependency Manager for PHP",
+            "homepage": "https://getcomposer.org/",
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-28T11:58:01Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:14:04Z",
+            "open_issues": 155,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29505
+            "stars": 29506,
+            "topics": [
+              "composer",
+              "dependency-manager",
+              "package-manager",
+              "packages",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -42,12 +64,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dependency Manager for PHP",
+            "homepage": "https://getcomposer.org/",
             "id": 1864363,
             "language": "PHP",
-            "last_commit": "2026-08-28T11:58:01Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:14:04Z",
+            "open_issues": 155,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29505
+            "stars": 29506,
+            "topics": [
+              "composer",
+              "dependency-manager",
+              "package-manager",
+              "packages",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -58,12 +91,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Multi-Framework Composer Library Installer",
+            "homepage": null,
             "id": 4698175,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-01T21:02:33Z",
+            "open_issues": 26,
             "owner": "composer",
             "repo": "installers",
-            "stars": 1441
+            "stars": 1441,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         }
@@ -80,12 +118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "composer parallel install plugin",
+            "homepage": null,
             "id": 47120661,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-12-03T08:11:28Z",
+            "open_issues": 40,
             "owner": "hirak",
             "repo": "prestissimo",
-            "stars": 6117
+            "stars": 6117,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -96,12 +139,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer plugin for Symfony",
+            "homepage": null,
             "id": 70288750,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-05-29T17:59:07Z",
+            "open_issues": 21,
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4211
+            "stars": 4211,
+            "topics": [
+              "composer",
+              "flex",
+              "symfony"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -112,12 +164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :package: Composer addon to efficiently get installed packages' version numbers",
+            "homepage": null,
             "id": 50372644,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:03:01Z",
+            "open_issues": 2,
             "owner": "Ocramius",
             "repo": "PackageVersions",
-            "stars": 3171
+            "stars": 3171,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -128,12 +185,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple patches plugin for Composer",
+            "homepage": "https://www.cweagans.net/project/composer-patches",
             "id": 34407154,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-10T01:43:48Z",
+            "open_issues": 56,
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1723
+            "stars": 1723,
+            "topics": [
+              "composer",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -144,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " :package: Composer addon to efficiently get installed packages' version numbers",
+            "homepage": null,
             "id": 252459319,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-01-17T14:15:51Z",
+            "open_issues": 1,
             "owner": "composer",
             "repo": "package-versions-deprecated",
-            "stars": 1521
+            "stars": 1521,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -160,12 +230,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily manage git hooks in your composer config",
+            "homepage": null,
             "id": 84097963,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-06-22T09:18:12Z",
+            "open_issues": 12,
             "owner": "BrainMaestro",
             "repo": "composer-git-hooks",
-            "stars": 1085
+            "stars": 1085,
+            "topics": [
+              "command-line",
+              "command-line-tool",
+              "composer",
+              "composer-event",
+              "composer-package",
+              "git",
+              "git-hooks",
+              "githook",
+              "php",
+              "php7"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -176,12 +262,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Merge one or more additional composer.json files at Composer runtime",
+            "homepage": null,
             "id": 28324879,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-02-17T18:54:18Z",
+            "open_issues": 72,
             "owner": "wikimedia",
             "repo": "composer-merge-plugin",
-            "stars": 1016
+            "stars": 1016,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -192,12 +283,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dependency graph visualization for composer.json (PHP + Composer)",
+            "homepage": "https://clue.engineering/2020/introducing-graph-composer",
             "id": 10075815,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-08-06T14:05:26Z",
+            "open_issues": 8,
             "owner": "clue",
             "repo": "graph-composer",
-            "stars": 936
+            "stars": 936,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -208,12 +304,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NPM/Bower Dependency Manager for Composer",
+            "homepage": null,
             "id": 21001804,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-02-28T10:54:22Z",
+            "open_issues": 15,
             "owner": "fxpio",
             "repo": "composer-asset-plugin",
-            "stars": 887
+            "stars": 887,
+            "topics": [
+              "assets",
+              "bower",
+              "composer",
+              "npm",
+              "php",
+              "vcs"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -224,12 +332,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)",
+            "homepage": null,
             "id": 736211524,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-11T12:23:21Z",
+            "open_issues": 19,
             "owner": "shipmonk-rnd",
             "repo": "composer-dependency-analyser",
-            "stars": 626
+            "stars": 626,
+            "topics": [
+              "analyzer",
+              "checker",
+              "composer",
+              "dead-code",
+              "dependencies",
+              "require",
+              "soft-dependencies",
+              "unused-dependencies"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -240,12 +362,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer installer for PHP_CodeSniffer coding standards",
+            "homepage": "https://packagist.org/packages/dealerdirect/phpcodesniffer-composer-installer",
             "id": 71593418,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-07T21:59:58Z",
+            "open_issues": 6,
             "owner": "PHPCSStandards",
             "repo": "composer-installer",
-            "stars": 601
+            "stars": 601,
+            "topics": [
+              "coding-standards",
+              "composer-installation",
+              "composer-plugin",
+              "php-codesniffer",
+              "phpcodesniffer-standard"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -256,12 +389,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":notebook: Display better summary after Composer update",
+            "homepage": null,
             "id": 42963991,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-11-27T10:00:47Z",
+            "open_issues": 1,
             "owner": "pyrech",
             "repo": "composer-changelogs",
-            "stars": 588
+            "stars": 588,
+            "topics": [
+              "changelog",
+              "composer",
+              "composer-plugin",
+              "hacktoberfest",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -272,12 +416,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hammer_and_wrench: :hammer: Composer registry manager that help to easily switch to the  composer repository you want. ",
+            "homepage": null,
             "id": 84933609,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-03-04T08:50:59Z",
+            "open_issues": 4,
             "owner": "slince",
             "repo": "composer-registry-manager",
-            "stars": 557
+            "stars": 557,
+            "topics": [
+              "composer",
+              "composer-plugin",
+              "composer-registry-manager",
+              "mirror",
+              "repository",
+              "switch-repository"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -288,12 +444,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "No conflicts for your bin dependencies",
+            "homepage": null,
             "id": 57874945,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-02-04T10:45:32Z",
+            "open_issues": 7,
             "owner": "bamarni",
             "repo": "composer-bin-plugin",
-            "stars": 530
+            "stars": 530,
+            "topics": [
+              "composer",
+              "conflict",
+              "dependency",
+              "executable",
+              "isolation",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -304,12 +472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrates Composer into monolithic repositories with many packages.",
+            "homepage": null,
             "id": 33719335,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-12-13T11:49:59Z",
+            "open_issues": 13,
             "owner": "beberlei",
             "repo": "composer-monorepo-plugin",
-            "stars": 312
+            "stars": 312,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -320,12 +493,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Applies a patch from a local or remote file to any package that is part of a given composer project. Patches can be defined both on project and on package level. Optional support for patch versioning, sequencing, custom patch applier configuration and composer command for testing/troubleshooting patches.",
+            "homepage": null,
             "id": 52349469,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-08T05:49:45Z",
+            "open_issues": 34,
             "owner": "vaimo",
             "repo": "composer-patches",
-            "stars": 304
+            "stars": 304,
+            "topics": [
+              "applier",
+              "composer",
+              "composer-commands",
+              "composer-extension",
+              "composer-packages",
+              "composer-plugin",
+              "constraints",
+              "maintenance",
+              "patch-extension",
+              "patcher",
+              "patches",
+              "patching",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -336,12 +528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checks if packages are up to date to last major versions after update",
+            "homepage": null,
             "id": 43491309,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-12-02T15:35:28Z",
+            "open_issues": 17,
             "owner": "soullivaneuh",
             "repo": "composer-versions-check",
-            "stars": 236
+            "stars": 236,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -352,12 +549,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer install helper outsourcing sensitive keys from the package URL into environment variables",
+            "homepage": null,
             "id": 120679908,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-09-02T15:48:33Z",
+            "open_issues": 4,
             "owner": "ffraenz",
             "repo": "private-composer-installer",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "acf",
+              "composer",
+              "composer-plugin",
+              "dotenv",
+              "hacktoberfest",
+              "packagist",
+              "wordpress"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -368,12 +578,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preload your sweet sweet code to opcache with a composer command, making your code faster to run.",
+            "homepage": null,
             "id": 156724942,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-05-16T11:25:07Z",
+            "open_issues": 4,
             "owner": "Ayesh",
             "repo": "Composer-Preload",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "composer",
+              "composer-commands",
+              "composer-plugin",
+              "composer-preload",
+              "opcache",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -384,12 +606,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compares composer.lock changes and generates Markdown report so you can use it in PR description.",
+            "homepage": "https://packagist.org/packages/ion-bazan/composer-diff",
             "id": 271629916,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-17T16:17:47Z",
+            "open_issues": 3,
             "owner": "IonBazan",
             "repo": "composer-diff",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "composer",
+              "composer-diff",
+              "composer-plugin",
+              "diff",
+              "github",
+              "lock",
+              "markdown",
+              "packages",
+              "packagist",
+              "php",
+              "pullrequest"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -400,12 +639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 60379305,
             "language": "PHP",
+            "license": null,
             "last_commit": "2021-01-18T17:52:48Z",
+            "open_issues": 2,
             "owner": "jderusse",
             "repo": "composer-warmup",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -416,12 +660,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, reliable, and secure NPM/Yarn/pnpm bridge for Composer",
+            "homepage": "https://foxypkg.com",
             "id": 102729244,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-07-29T10:15:14Z",
+            "open_issues": 5,
             "owner": "fxpio",
             "repo": "foxy",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "bridge",
+              "composer",
+              "composer-plugin",
+              "dependency-manager",
+              "foxy",
+              "npm",
+              "php",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -432,12 +690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":package: Composer plugin to share packages between projects with symlinks",
+            "homepage": null,
             "id": 33042488,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-12-04T19:30:55Z",
+            "open_issues": 9,
             "owner": "Letudiant",
             "repo": "composer-shared-package-plugin",
-            "stars": 164
+            "stars": 164,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -448,12 +711,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer plugin that wraps all composer vendor packages inside your own namespace. Intended for WordPress plugins.",
+            "homepage": "https://www.typist.tech/projects/imposter-plugin",
             "id": 85290139,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-10T15:32:31Z",
+            "open_issues": 8,
             "owner": "typisttech",
             "repo": "imposter-plugin",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "composer-plugin",
+              "dependency",
+              "devtools",
+              "monkey-patching",
+              "namespace",
+              "php",
+              "wordpress",
+              "wordpress-development"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -464,12 +741,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Composer plugin for cleaning up unused files from packages.",
+            "homepage": null,
             "id": 23107875,
             "language": "PHP",
+            "license": null,
             "last_commit": "2024-03-09T07:46:22Z",
+            "open_issues": 11,
             "owner": "barryvdh",
             "repo": "composer-cleanup-plugin",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -480,12 +762,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A composer plugin, to install differenty types of composer packages in custom directories outside the default composer default installation path which is in the vendor folder.",
+            "homepage": "https://packagist.org/packages/mnsami/composer-custom-directory-installer",
             "id": 16550959,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-05-20T07:59:02Z",
+            "open_issues": 0,
             "owner": "mnsami",
             "repo": "composer-custom-directory-installer",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "composer",
+              "composer-installer",
+              "composer-packages",
+              "composer-plugin",
+              "flexibility"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -496,12 +789,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Victor The Cleaner: removes unnecessary files from vendor directory",
+            "homepage": "https://nette.org",
             "id": 28814261,
             "language": "PHP",
+            "license": null,
             "last_commit": "2026-07-13T12:22:34Z",
+            "open_issues": 7,
             "owner": "dg",
             "repo": "composer-cleaner",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "cleaner",
+              "composer",
+              "composer-plugin",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -512,12 +815,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An installer package that let's you install NodeJS and NPM as a Composer dependency.",
+            "homepage": null,
             "id": 31776085,
             "language": "PHP",
+            "license": null,
             "last_commit": "2022-08-25T15:14:50Z",
+            "open_issues": 10,
             "owner": "thecodingmachine",
             "repo": "nodejs-installer",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -528,12 +836,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check your Composer dependencies at runtime.",
+            "homepage": null,
             "id": 5550104,
             "language": "PHP",
+            "license": null,
             "last_commit": "2016-03-18T11:25:41Z",
+            "open_issues": 0,
             "owner": "bamarni",
             "repo": "composition",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -544,12 +857,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":shell: A REPL for PHP built into Composer (using PsySH)",
+            "homepage": null,
             "id": 290004952,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-03-06T02:08:11Z",
+            "open_issues": 0,
             "owner": "ramsey",
             "repo": "composer-repl",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "composer",
+              "composer-plugin",
+              "php",
+              "psysh",
+              "repl"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -560,12 +884,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds ability to link / symlink local packages for development with composer",
+            "homepage": "https://packagist.org/packages/sandersander/composer-link",
             "id": 469111656,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T11:36:53Z",
+            "open_issues": 0,
             "owner": "SanderSander",
             "repo": "composer-link",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "composer",
+              "composer-plugin",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -576,12 +909,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create CycloneDX Software Bill of Materials (SBOM) from PHP Composer projects",
+            "homepage": "https://cyclonedx.org/",
             "id": 201355729,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-08T20:12:35Z",
+            "open_issues": 21,
             "owner": "CycloneDX",
             "repo": "cyclonedx-php-composer",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "bill-of-materials",
+              "bom",
+              "composer",
+              "composer-plugin",
+              "cyclonedx",
+              "dependency-graph",
+              "hacktoberfest",
+              "owasp",
+              "package-url",
+              "php",
+              "purl",
+              "sbom",
+              "sbom-generator",
+              "sbom-tool",
+              "software-bill-of-materials",
+              "spdx"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -592,12 +947,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package to remove junk from Composer installations and trim build sizes.",
+            "homepage": null,
             "id": 208862275,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-10T19:33:35Z",
+            "open_issues": 3,
             "owner": "ssx",
             "repo": "skrub",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "build",
+              "cleaner",
+              "cleanup",
+              "composer",
+              "composer-package",
+              "composer-plugin",
+              "disk-space",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -608,12 +977,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 183922633,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-07-03T21:36:31Z",
+            "open_issues": 5,
             "owner": "kalessil",
             "repo": "production-dependencies-guard",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -624,12 +998,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for composer to apply patches onto dependencies.",
+            "homepage": null,
             "id": 16117907,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-19T08:31:42Z",
+            "open_issues": 1,
             "owner": "netresearch",
             "repo": "composer-patches-plugin",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "composer",
+              "composer-plugin",
+              "patches"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -640,12 +1023,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "AWS Plugin for Composer",
+            "homepage": null,
             "id": 12106006,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-10-25T21:13:20Z",
+            "open_issues": 0,
             "owner": "naderman",
             "repo": "composer-aws",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -656,12 +1044,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Locate the installation path for any installed Composer package",
+            "homepage": null,
             "id": 56599359,
             "language": "PHP",
+            "license": null,
             "last_commit": "2024-05-08T09:27:40Z",
+            "open_issues": 1,
             "owner": "mindplay-dk",
             "repo": "composer-locator",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -672,12 +1065,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 Composer plugin to exclude files required by packages using the 'files' autoloading mechanism.",
+            "homepage": null,
             "id": 115119681,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-01T23:07:03Z",
+            "open_issues": 0,
             "owner": "mcaskill",
             "repo": "composer-plugin-exclude-files",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "composer",
+              "composer-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -688,12 +1089,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer Vendor Cleaner removes unnecessary development files and directories from vendor directory.",
+            "homepage": null,
             "id": 217685636,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-11-21T14:57:12Z",
+            "open_issues": 0,
             "owner": "liborm85",
             "repo": "composer-vendor-cleaner",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "cleaner",
+              "composer",
+              "composer-plugin",
+              "php",
+              "remove"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -704,12 +1116,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin.",
+            "homepage": null,
             "id": 68651304,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-10-11T06:40:47Z",
+            "open_issues": 1,
             "owner": "theofidry",
             "repo": "composer-inheritance-plugin",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "composer",
+              "composer-plugin",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -720,12 +1141,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Project was moved!",
+            "homepage": "https://github.com/gmta/composer-velocita",
             "id": 108409434,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-04-26T13:18:47Z",
+            "open_issues": 1,
             "owner": "isaaceindhoven",
             "repo": "composer-velocita",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -736,12 +1162,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Comprehensive Plugin for composer to execute PHP Quality assurance Tools",
+            "homepage": null,
             "id": 61841273,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-10-19T00:44:25Z",
+            "open_issues": 3,
             "owner": "webysther",
             "repo": "composer-plugin-qa",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "composer-plugin",
+              "metrics",
+              "php",
+              "php-qa",
+              "phpunit",
+              "quality",
+              "quality-assurance"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -752,12 +1191,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The composer plugin to remove useless files by yourself",
+            "homepage": null,
             "id": 73680584,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-09-29T21:02:35Z",
+            "open_issues": 1,
             "owner": "lichunqiang",
             "repo": "composer-ignore-plugin",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "composer-ignore-plugin",
+              "composer-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -768,12 +1215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Composer plugin to install packages as local symbolic links",
+            "homepage": null,
             "id": 32250739,
             "language": "PHP",
+            "license": "Unlicense",
             "last_commit": "2015-04-19T12:01:18Z",
+            "open_issues": 0,
             "owner": "e-picas",
             "repo": "composer-symlinker",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -784,12 +1236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hardens the vendor directory for when it's in the docroot.",
+            "homepage": "http://drupal.org/project/drupal",
             "id": 204363168,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-18T11:42:43Z",
+            "open_issues": 1,
             "owner": "drupal",
             "repo": "core-vendor-hardening",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -800,12 +1257,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":microscope: Composer plugin to automate the most common tasks of applications.",
+            "homepage": null,
             "id": 127812199,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-01-04T23:11:44Z",
+            "open_issues": 33,
             "owner": "narrowspark",
             "repo": "automatic",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "automatic",
+              "composer-installer",
+              "composer-plugin",
+              "configurator",
+              "discovery",
+              "narrowspark",
+              "narrowspark-automatic",
+              "php",
+              "php73",
+              "php74",
+              "script-executor",
+              "skeletons"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -816,12 +1291,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allow composer packages to define compilation steps",
+            "homepage": null,
             "id": 294022182,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-11-02T11:21:40Z",
+            "open_issues": 1,
             "owner": "civicrm",
             "repo": "composer-compile-plugin",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "build",
+              "composer",
+              "composer-plugin",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -832,12 +1317,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer plugin for applying patches from packaged patchsets",
+            "homepage": null,
             "id": 163436919,
             "language": "PHP",
+            "license": null,
             "last_commit": "2025-05-30T06:06:03Z",
+            "open_issues": 0,
             "owner": "mageops",
             "repo": "php-composer-plugin-patchset",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -848,12 +1338,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, fast, isolated way to download+assimilate ZIP/TAR files",
+            "homepage": null,
             "id": 202494455,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-04-09T20:36:03Z",
+            "open_issues": 1,
             "owner": "civicrm",
             "repo": "composer-downloads-plugin",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -864,12 +1359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Installed composer packages info",
+            "homepage": null,
             "id": 65204473,
             "language": "PHP",
+            "license": null,
             "last_commit": "2016-08-09T11:15:35Z",
+            "open_issues": 2,
             "owner": "ThaDafinser",
             "repo": "PackageInfo",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -880,12 +1380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "composer plugin for a better frontend setup",
+            "homepage": null,
             "id": 94461882,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-04-28T23:13:59Z",
+            "open_issues": 6,
             "owner": "mariusbuescher",
             "repo": "node-composer",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -896,12 +1401,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer Curl Plugin",
+            "homepage": null,
             "id": 27660619,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2015-06-12T03:00:54Z",
+            "open_issues": 0,
             "owner": "ngyuki",
             "repo": "composer-curl-plugin",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -912,12 +1422,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer Plugin for automatically including files for easing function usage in php.",
+            "homepage": null,
             "id": 83270757,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-08-23T23:08:12Z",
+            "open_issues": 1,
             "owner": "krakphp",
             "repo": "php-inc",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "autoloading",
+              "autoloading-functions",
+              "composer",
+              "composer-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -928,12 +1448,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer plugin. Can we find a simple way of installing Composer suggestions?",
+            "homepage": "https://packagist.org/packages/nfreear",
             "id": 34801857,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-07-31T10:33:37Z",
+            "open_issues": 8,
             "owner": "nfreear",
             "repo": "composer-suggest",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "composer-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -944,12 +1471,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 Composer plugin that validates translation files in your project.",
+            "homepage": "https://move-elevator.github.io/composer-translation-validator/",
             "id": 990531132,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T02:48:57Z",
+            "open_issues": 3,
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "translation",
+              "translation-validation",
+              "xliff-validation",
+              "yaml-validator"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -960,12 +1497,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display a colored ASCII banner after composer install / composer update. Hex colors, palettes, gradient presets and animation.",
+            "homepage": null,
             "id": 1232932578,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-27T07:00:42Z",
+            "open_issues": 0,
             "owner": "wazum",
             "repo": "composer-fanfare",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "animation",
+              "ansi-colors",
+              "ascii-art",
+              "ascii-banner",
+              "banner",
+              "cli",
+              "composer",
+              "composer-plugin",
+              "developer-experience",
+              "fun",
+              "gradient",
+              "php",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         }
@@ -982,12 +1538,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OctoLinker — Links together, what belongs together",
+            "homepage": "https://octolinker.vercel.app",
             "id": 15479087,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-10-02T12:33:45Z",
+            "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5385
+            "stars": 5384,
+            "topics": [
+              "browser-extension",
+              "github",
+              "github-extension",
+              "octolinker",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -998,12 +1565,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Restart a CLI process without loading the xdebug extension.",
+            "homepage": null,
             "id": 111680504,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-01T09:55:22Z",
+            "open_issues": 0,
             "owner": "composer",
             "repo": "xdebug-handler",
-            "stars": 2566
+            "stars": 2566,
+            "topics": [
+              "performance",
+              "php",
+              "restart",
+              "xdebug"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1014,12 +1591,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Show unused composer dependencies by scanning your code",
+            "homepage": null,
             "id": 176938195,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-04-27T02:02:52Z",
+            "open_issues": 14,
             "owner": "composer-unused",
             "repo": "composer-unused",
-            "stars": 1687
+            "stars": 1688,
+            "topics": [
+              "composer",
+              "hacktoberfest",
+              "php",
+              "php-parser"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1030,12 +1617,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A workbench for developing Composer packages.",
+            "homepage": null,
             "id": 29075900,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-04-21T19:23:19Z",
+            "open_issues": 24,
             "owner": "franzliedke",
             "repo": "studio",
-            "stars": 1137
+            "stars": 1137,
+            "topics": [
+              "composer-packages",
+              "composer-plugin",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1046,12 +1642,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎵 Provides a composer plugin for normalizing composer.json.",
+            "homepage": null,
             "id": 117266976,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-23T22:02:38Z",
+            "open_issues": 27,
             "owner": "ergebnis",
             "repo": "composer-normalize",
-            "stars": 1121
+            "stars": 1121,
+            "topics": [
+              "composer",
+              "composer-plugin",
+              "json",
+              "normalizer"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1062,12 +1668,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies",
+            "homepage": null,
             "id": 46859018,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-28T04:57:36Z",
+            "open_issues": 45,
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
-            "stars": 1010
+            "stars": 1010,
+            "topics": [
+              "ci-tools",
+              "code-quality"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1078,12 +1692,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer as a service",
+            "homepage": null,
             "id": 15349057,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-07-27T05:23:17Z",
+            "open_issues": 32,
             "owner": "pborreli",
             "repo": "composer-service",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "composer",
+              "php",
+              "symfony",
+              "symfony-application"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1094,12 +1718,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bash/Shell autocompletion for Composer",
+            "homepage": "https://www.bram.us/2019/05/16/bash-shell-autocompletion-for-composer/",
             "id": 186822216,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-02-01T10:25:34Z",
+            "open_issues": 2,
             "owner": "bramus",
             "repo": "composer-autocomplete",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1110,12 +1739,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool to convert from composer.yml to composer.json.",
+            "homepage": null,
             "id": 3689871,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-02-03T21:32:59Z",
+            "open_issues": 4,
             "owner": "igorw",
             "repo": "composer-yaml",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1126,12 +1760,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checks prefer-lowest installation for actually defined min versions in composer.json",
+            "homepage": null,
             "id": 163982373,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-06-28T09:43:01Z",
+            "open_issues": 1,
             "owner": "dereuromark",
             "repo": "composer-prefer-lowest",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "composer",
+              "composer-scripts",
+              "composer-support",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         }
@@ -1148,12 +1792,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer script handling your ignored parameter file",
+            "homepage": null,
             "id": 6322277,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-11-26T14:11:27Z",
+            "open_issues": 32,
             "owner": "Incenteev",
             "repo": "ParameterHandler",
-            "stars": 931
+            "stars": 931,
+            "topics": [
+              "composer",
+              "composer-scripts",
+              "environment-variables",
+              "ignored-parameters",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1164,12 +1819,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "One-file composer scripts",
+            "homepage": null,
             "id": 27604816,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-06-01T06:26:12Z",
+            "open_issues": 0,
             "owner": "sensiolabs",
             "repo": "melody",
-            "stars": 395
+            "stars": 395,
+            "topics": [
+              "composer-scripts",
+              "melody",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1180,12 +1844,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.",
+            "homepage": null,
             "id": 11861935,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-02T03:15:04Z",
+            "open_issues": 1,
             "owner": "jakoch",
             "repo": "phantomjs-installer",
-            "stars": 150
+            "stars": 150,
+            "topics": [
+              "composer",
+              "phantomjs",
+              "phantomjs-installation",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1196,12 +1870,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple composer script to manage phar files using project composer.json.",
+            "homepage": null,
             "id": 62310260,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-01-10T13:42:25Z",
+            "open_issues": 8,
             "owner": "tommy-muehle",
             "repo": "tooly-composer-script",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "composer",
+              "composer-scripts",
+              "phar",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1212,12 +1896,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts-dev directive for composer",
+            "homepage": null,
             "id": 45651470,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-12-16T08:02:30Z",
+            "open_issues": 1,
             "owner": "neronmoon",
             "repo": "scriptsdev",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "composer",
+              "php",
+              "scripts"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1228,12 +1921,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer plugin replacing placeholders in the scripts section by dynamic values",
+            "homepage": null,
             "id": 253338544,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-03-24T08:09:36Z",
+            "open_issues": 1,
             "owner": "villfa",
             "repo": "composer-substitution-plugin",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "composer",
+              "composer-plugin",
+              "composer-scripts",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1244,12 +1947,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Composer script to lint a Travis CI configuration file.",
+            "homepage": null,
             "id": 70408833,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-01-29T12:02:30Z",
+            "open_issues": 1,
             "owner": "raphaelstolt",
             "repo": "composer-travis-lint",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "composer-scripts",
+              "linter",
+              "repository-utilities",
+              "travis-ci",
+              "travis-ci-configuration"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1260,12 +1974,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Composer script to run a 'test' or 'spec' Composer script against multiple PHP versions.",
+            "homepage": null,
             "id": 71503388,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-05-08T16:21:18Z",
+            "open_issues": 0,
             "owner": "raphaelstolt",
             "repo": "composer-multitest",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "composer-scripts",
+              "phpbrew",
+              "phpenv",
+              "phpspec",
+              "phpunit",
+              "repository-utilities"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1276,12 +2002,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Removes whitelisted unnecessary files (like tests/docs etc.) from vendor directory",
+            "homepage": null,
             "id": 213999712,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-05-23T12:02:33Z",
+            "open_issues": 0,
             "owner": "0xch",
             "repo": "composer-vendor-cleanup",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         }
@@ -1300,12 +2031,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "📦✂️📋📦 Create a mirror of packagist.org metadata for use locally with composer",
+                "homepage": "https://packagist.org/mirrors",
                 "id": 94506084,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-19T12:20:21Z",
+                "open_issues": 0,
                 "owner": "webysther",
                 "repo": "packagist-mirror",
-                "stars": 200
+                "stars": 200,
+                "topics": [
+                  "composer",
+                  "composer-packages",
+                  "crawler",
+                  "mirror",
+                  "packagist",
+                  "packagist-mirror",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T14:35:30.506Z"
             },
@@ -1316,12 +2060,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creates Packagist.org mirror site.",
+                "homepage": null,
                 "id": 128067234,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2019-05-14T06:57:59Z",
+                "open_issues": 2,
                 "owner": "IndraGunawan",
                 "repo": "packagist-mirror",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "composer",
+                  "mirror-site",
+                  "packagist",
+                  "packagist-mirror",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T14:35:30.506Z"
             },
@@ -1332,12 +2087,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🐋📦✂️📋📦  Docker image of packagist mirror",
+                "homepage": "https://hub.docker.com/r/webysther/packagist-mirror/",
                 "id": 104811625,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2025-03-19T13:13:21Z",
+                "open_issues": 0,
                 "owner": "webysther",
                 "repo": "packagist-mirror-docker",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "composer",
+                  "composer-packages",
+                  "docker",
+                  "mirror",
+                  "packagist",
+                  "packagist-mirror",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T14:35:30.506Z"
             }
@@ -1361,12 +2129,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":hammer_and_wrench: :hammer: Composer registry manager that help to easily switch to the  composer repository you want. ",
+                "homepage": null,
                 "id": 84933609,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-03-04T08:50:59Z",
+                "open_issues": 4,
                 "owner": "slince",
                 "repo": "composer-registry-manager",
-                "stars": 557
+                "stars": 557,
+                "topics": [
+                  "composer",
+                  "composer-plugin",
+                  "composer-registry-manager",
+                  "mirror",
+                  "repository",
+                  "switch-repository"
+                ]
               },
               "first_seen": "2026-08-28T14:35:30.506Z"
             }
@@ -1384,12 +2164,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Private Composer registry for private PHP packages on AWS Serverless",
+                "homepage": null,
                 "id": 138516381,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-08-18T12:30:13Z",
+                "open_issues": 0,
                 "owner": "fxpio",
                 "repo": "tug",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "aws-api-gateway",
+                  "aws-cloudformation",
+                  "aws-lambda",
+                  "aws-lambda-node",
+                  "aws-s3",
+                  "composer",
+                  "composer-registries",
+                  "composer-registry-manager",
+                  "github-webhooks",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T14:35:30.506Z"
             }
@@ -1407,12 +2203,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Private Packagist API Client",
+                "homepage": "https://packagist.com/docs/api",
                 "id": 123302282,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-26T08:32:03Z",
+                "open_issues": 1,
                 "owner": "packagist",
                 "repo": "private-packagist-api-client",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "composer",
+                  "package-management",
+                  "packagist",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T14:35:30.506Z"
             }
@@ -1430,12 +2238,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repman - PHP Repository Manager: packagist proxy and host for private packages ",
+                "homepage": "https://repman.io",
                 "id": 246783755,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:23:45Z",
+                "open_issues": 127,
                 "owner": "repman-io",
                 "repo": "repman",
-                "stars": 582
+                "stars": 582,
+                "topics": [
+                  "composer",
+                  "hacktoberfest",
+                  "packagist",
+                  "packagist-mirror",
+                  "packagist-proxy",
+                  "php",
+                  "private-packagist",
+                  "repository-management"
+                ]
               },
               "first_seen": "2026-08-28T14:35:30.506Z"
             },
@@ -1446,12 +2268,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Composer plugin for Repman - PHP Repository Manager",
+                "homepage": "https://repman.io/proxy",
                 "id": 246783867,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-02-27T12:27:56Z",
+                "open_issues": 2,
                 "owner": "repman-io",
                 "repo": "composer-plugin",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "composer",
+                  "composer-mirror",
+                  "composer-plugin",
+                  "packagist",
+                  "packagist-mirror",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T14:35:30.506Z"
             }
@@ -1473,12 +2307,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos.",
+            "homepage": "https://demo.packeton.org",
             "id": 146350116,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-04-29T16:06:01Z",
+            "open_issues": 54,
             "owner": "vtsykun",
             "repo": "packeton",
-            "stars": 540
+            "stars": 540,
+            "topics": [
+              "composer",
+              "docker-satis",
+              "packagist",
+              "packeton",
+              "private-packagist",
+              "satis"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1489,12 +2335,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer repository implementation for ZIPs.",
+            "homepage": null,
             "id": 27199907,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-07-20T13:49:13Z",
+            "open_issues": 2,
             "owner": "Rarst",
             "repo": "release-belt",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "composer",
+              "repository"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1505,12 +2359,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":whale: Private, self-hosted Composer/Satis repository with unlimited private and open-source packages and support for Git, Mercurial, and Subversion. HTTP API, HTTPs support, webhook handler, scheduled builds, Slack and HipChat integration.",
+            "homepage": null,
             "id": 98823783,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-09-22T16:30:04Z",
+            "open_issues": 4,
             "owner": "lukaszlach",
             "repo": "satis-server",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "api",
+              "composer",
+              "composer-registries",
+              "docker",
+              "packagist",
+              "satis",
+              "webhook"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -1523,12 +2390,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Satis composer repository manager with a Web UI ",
+                "homepage": "http://ludofleury.github.io/satisfy/",
                 "id": 10504418,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-05-28T17:32:27Z",
+                "open_issues": 8,
                 "owner": "project-satisfy",
                 "repo": "satisfy",
-                "stars": 549
+                "stars": 549,
+                "topics": [
+                  "composer",
+                  "composer-packages",
+                  "satis"
+                ]
               },
               "first_seen": "2026-08-28T14:35:30.506Z"
             },
@@ -1539,12 +2415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gitlab Composer repository",
+                "homepage": null,
                 "id": 12308221,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2018-08-06T12:10:28Z",
+                "open_issues": 6,
                 "owner": "wemakecustom",
                 "repo": "gitlab-composer",
-                "stars": 161
+                "stars": 161,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:30.506Z"
             },
@@ -1555,12 +2436,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Satis Control Panel (SCP) is a simple web UI for managing your Satis Repository for Composer Packages.",
+                "homepage": null,
                 "id": 48244490,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2019-01-10T12:45:59Z",
+                "open_issues": 8,
                 "owner": "realshadow",
                 "repo": "satis-control-panel",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "composer",
+                  "composer-packages",
+                  "control-panel",
+                  "proxy",
+                  "repository-management",
+                  "satis"
+                ]
               },
               "first_seen": "2026-08-28T14:35:30.506Z"
             },
@@ -1571,12 +2464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 27511050,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2020-06-12T20:59:13Z",
+                "open_issues": 5,
                 "owner": "benschw",
                 "repo": "satis-go",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:35:30.506Z"
             }
@@ -1590,15 +2488,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:35:30.506Z",
+    "last_updated": "2026-08-29T04:40:49.191Z",
     "original_repository_info": {
       "archived": false,
+      "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
+      "homepage": null,
       "id": 50202814,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-26T14:48:03Z",
+      "open_issues": 0,
       "owner": "jakoch",
       "repo": "awesome-composer",
-      "stars": 907
+      "stars": 907,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "composer",
+        "composer-best-practices",
+        "composer-installers",
+        "composer-packages",
+        "composer-plugin",
+        "composer-tutorial",
+        "dependency-manager",
+        "list",
+        "packagist",
+        "php"
+      ]
     },
     "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
     "enhanced_repository": "enhansome/enhansome-composer",
