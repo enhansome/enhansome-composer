@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29507,
+            "stars": 29506,
             "topics": [
               "composer",
               "dependency-manager",
@@ -46,7 +46,7 @@
             "open_issues": 154,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29507,
+            "stars": 29506,
             "topics": [
               "composer",
               "dependency-manager",
@@ -73,7 +73,7 @@
             "open_issues": 154,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29507,
+            "stars": 29506,
             "topics": [
               "composer",
               "dependency-manager",
@@ -169,7 +169,7 @@
             "id": 50372644,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-30T04:44:43Z",
+            "last_commit": "2026-08-31T05:51:36Z",
             "open_issues": 2,
             "owner": "Ocramius",
             "repo": "PackageVersions",
@@ -190,7 +190,7 @@
             "id": 34407154,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-10T01:43:48Z",
+            "last_commit": "2026-08-31T01:43:51Z",
             "open_issues": 56,
             "owner": "cweagans",
             "repo": "composer-patches",
@@ -271,7 +271,7 @@
             "open_issues": 72,
             "owner": "wikimedia",
             "repo": "composer-merge-plugin",
-            "stars": 1016,
+            "stars": 1017,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -313,7 +313,7 @@
             "open_issues": 15,
             "owner": "fxpio",
             "repo": "composer-asset-plugin",
-            "stars": 887,
+            "stars": 886,
             "topics": [
               "assets",
               "bower",
@@ -669,7 +669,7 @@
             "open_issues": 5,
             "owner": "fxpio",
             "repo": "foxy",
-            "stars": 176,
+            "stars": 175,
             "topics": [
               "bridge",
               "composer",
@@ -1476,7 +1476,7 @@
             "id": 990531132,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T02:48:57Z",
+            "last_commit": "2026-08-31T02:11:48Z",
             "open_issues": 3,
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
@@ -1647,7 +1647,7 @@
             "id": 117266976,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-23T22:02:38Z",
+            "last_commit": "2026-08-30T22:02:57Z",
             "open_issues": 27,
             "owner": "ergebnis",
             "repo": "composer-normalize",
@@ -1673,7 +1673,7 @@
             "id": 46859018,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-28T04:57:36Z",
+            "last_commit": "2026-08-31T07:15:04Z",
             "open_issues": 45,
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
@@ -2488,7 +2488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:32:31.972Z",
+    "last_updated": "2026-08-31T08:54:18.127Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
