@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29506,
+            "stars": 29507,
             "topics": [
               "composer",
               "dependency-manager",
@@ -46,7 +46,7 @@
             "open_issues": 154,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29506,
+            "stars": 29507,
             "topics": [
               "composer",
               "dependency-manager",
@@ -73,7 +73,7 @@
             "open_issues": 154,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29506,
+            "stars": 29507,
             "topics": [
               "composer",
               "dependency-manager",
@@ -169,7 +169,7 @@
             "id": 50372644,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-31T05:51:36Z",
+            "last_commit": "2026-09-01T00:42:51Z",
             "open_issues": 2,
             "owner": "Ocramius",
             "repo": "PackageVersions",
@@ -194,7 +194,7 @@
             "open_issues": 56,
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1723,
+            "stars": 1724,
             "topics": [
               "composer",
               "php"
@@ -537,7 +537,7 @@
             "open_issues": 17,
             "owner": "soullivaneuh",
             "repo": "composer-versions-check",
-            "stars": 236,
+            "stars": 235,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -1476,8 +1476,8 @@
             "id": 990531132,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T02:11:48Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-01T02:24:45Z",
+            "open_issues": 2,
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3,
@@ -1570,8 +1570,8 @@
             "id": 111680504,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-01T09:55:22Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-01T04:32:42Z",
+            "open_issues": 1,
             "owner": "composer",
             "repo": "xdebug-handler",
             "stars": 2566,
@@ -1673,7 +1673,7 @@
             "id": 46859018,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-31T07:15:04Z",
+            "last_commit": "2026-09-01T01:41:49Z",
             "open_issues": 45,
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
@@ -2488,7 +2488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:54:18.127Z",
+    "last_updated": "2026-09-01T07:59:01.386Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
