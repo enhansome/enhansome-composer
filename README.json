@@ -100,7 +100,7 @@
             "open_issues": 26,
             "owner": "composer",
             "repo": "installers",
-            "stars": 1441,
+            "stars": 1440,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -148,7 +148,7 @@
             "open_issues": 23,
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4211,
+            "stars": 4209,
             "topics": [
               "composer",
               "flex",
@@ -173,7 +173,7 @@
             "open_issues": 2,
             "owner": "Ocramius",
             "repo": "PackageVersions",
-            "stars": 3171,
+            "stars": 3170,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -218,7 +218,7 @@
             "open_issues": 1,
             "owner": "composer",
             "repo": "package-versions-deprecated",
-            "stars": 1522,
+            "stars": 1515,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -914,7 +914,7 @@
             "id": 201355729,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T20:12:27Z",
+            "last_commit": "2026-09-05T20:12:42Z",
             "open_issues": 21,
             "owner": "CycloneDX",
             "repo": "cyclonedx-php-composer",
@@ -1677,7 +1677,7 @@
             "open_issues": 45,
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
-            "stars": 1010,
+            "stars": 1009,
             "topics": [
               "ci-tools",
               "code-quality"
@@ -1801,7 +1801,7 @@
             "open_issues": 32,
             "owner": "Incenteev",
             "repo": "ParameterHandler",
-            "stars": 931,
+            "stars": 930,
             "topics": [
               "composer",
               "composer-scripts",
@@ -2488,7 +2488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:06:44.612Z",
+    "last_updated": "2026-09-06T07:18:32.690Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
