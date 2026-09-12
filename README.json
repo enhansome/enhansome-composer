@@ -19,7 +19,7 @@
             "open_issues": 160,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29519,
+            "stars": 29520,
             "topics": [
               "composer",
               "dependency-manager",
@@ -46,7 +46,7 @@
             "open_issues": 160,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29519,
+            "stars": 29520,
             "topics": [
               "composer",
               "dependency-manager",
@@ -73,7 +73,7 @@
             "open_issues": 160,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29519,
+            "stars": 29520,
             "topics": [
               "composer",
               "dependency-manager",
@@ -127,7 +127,7 @@
             "open_issues": 40,
             "owner": "hirak",
             "repo": "prestissimo",
-            "stars": 6116,
+            "stars": 6115,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -169,8 +169,8 @@
             "id": 50372644,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-11T05:01:29Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-11T12:06:58Z",
+            "open_issues": 2,
             "owner": "Ocramius",
             "repo": "PackageVersions",
             "stars": 3170,
@@ -218,7 +218,7 @@
             "open_issues": 1,
             "owner": "composer",
             "repo": "package-versions-deprecated",
-            "stars": 1513,
+            "stars": 1514,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -292,7 +292,7 @@
             "open_issues": 8,
             "owner": "clue",
             "repo": "graph-composer",
-            "stars": 937,
+            "stars": 938,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -1547,7 +1547,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5384,
+            "stars": 5385,
             "topics": [
               "browser-extension",
               "github",
@@ -1600,7 +1600,7 @@
             "open_issues": 15,
             "owner": "composer-unused",
             "repo": "composer-unused",
-            "stars": 1689,
+            "stars": 1690,
             "topics": [
               "composer",
               "hacktoberfest",
@@ -1673,11 +1673,11 @@
             "id": 46859018,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-11T05:28:08Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-11T12:08:17Z",
+            "open_issues": 45,
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
-            "stars": 1010,
+            "stars": 1011,
             "topics": [
               "ci-tools",
               "code-quality"
@@ -2208,7 +2208,7 @@
                 "id": 123302282,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-07T09:51:08Z",
+                "last_commit": "2026-09-11T13:19:01Z",
                 "open_issues": 1,
                 "owner": "packagist",
                 "repo": "private-packagist-api-client",
@@ -2488,7 +2488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:28:49.768Z",
+    "last_updated": "2026-09-12T07:20:54.321Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
