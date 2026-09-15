@@ -19,7 +19,7 @@
             "open_issues": 161,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29523,
+            "stars": 29522,
             "topics": [
               "composer",
               "dependency-manager",
@@ -46,7 +46,7 @@
             "open_issues": 161,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29523,
+            "stars": 29522,
             "topics": [
               "composer",
               "dependency-manager",
@@ -73,7 +73,7 @@
             "open_issues": 161,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29523,
+            "stars": 29522,
             "topics": [
               "composer",
               "dependency-manager",
@@ -148,7 +148,7 @@
             "open_issues": 23,
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4209,
+            "stars": 4208,
             "topics": [
               "composer",
               "flex",
@@ -169,11 +169,11 @@
             "id": 50372644,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-14T05:14:35Z",
+            "last_commit": "2026-09-14T11:40:13Z",
             "open_issues": 2,
             "owner": "Ocramius",
             "repo": "PackageVersions",
-            "stars": 3170,
+            "stars": 3169,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -1476,7 +1476,7 @@
             "id": 990531132,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T06:46:04Z",
+            "last_commit": "2026-09-14T18:34:21Z",
             "open_issues": 2,
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
@@ -1600,7 +1600,7 @@
             "open_issues": 15,
             "owner": "composer-unused",
             "repo": "composer-unused",
-            "stars": 1690,
+            "stars": 1691,
             "topics": [
               "composer",
               "hacktoberfest",
@@ -1727,7 +1727,7 @@
             "open_issues": 2,
             "owner": "bramus",
             "repo": "composer-autocomplete",
-            "stars": 98,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -2488,7 +2488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T08:06:56.388Z",
+    "last_updated": "2026-09-15T08:01:51.781Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
@@ -2500,7 +2500,7 @@
       "open_issues": 0,
       "owner": "jakoch",
       "repo": "awesome-composer",
-      "stars": 906,
+      "stars": 907,
       "topics": [
         "awesome",
         "awesome-list",
