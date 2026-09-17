@@ -127,7 +127,7 @@
             "open_issues": 40,
             "owner": "hirak",
             "repo": "prestissimo",
-            "stars": 6113,
+            "stars": 6114,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -148,7 +148,7 @@
             "open_issues": 23,
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4208,
+            "stars": 4209,
             "topics": [
               "composer",
               "flex",
@@ -498,8 +498,8 @@
             "id": 52349469,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-15T15:29:57Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-16T15:11:23Z",
+            "open_issues": 39,
             "owner": "vaimo",
             "repo": "composer-patches",
             "stars": 304,
@@ -537,7 +537,7 @@
             "open_issues": 17,
             "owner": "soullivaneuh",
             "repo": "composer-versions-check",
-            "stars": 235,
+            "stars": 236,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -893,7 +893,7 @@
             "open_issues": 0,
             "owner": "SanderSander",
             "repo": "composer-link",
-            "stars": 93,
+            "stars": 94,
             "topics": [
               "composer",
               "composer-plugin",
@@ -1241,7 +1241,7 @@
             "id": 204363168,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-03T09:59:10Z",
+            "last_commit": "2026-09-16T16:11:07Z",
             "open_issues": 1,
             "owner": "drupal",
             "repo": "core-vendor-hardening",
@@ -1547,7 +1547,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5384,
+            "stars": 5385,
             "topics": [
               "browser-extension",
               "github",
@@ -2399,7 +2399,7 @@
                 "open_issues": 8,
                 "owner": "project-satisfy",
                 "repo": "satisfy",
-                "stars": 550,
+                "stars": 549,
                 "topics": [
                   "composer",
                   "composer-packages",
@@ -2488,7 +2488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T07:54:53.151Z",
+    "last_updated": "2026-09-17T07:59:02.162Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
@@ -2500,7 +2500,7 @@
       "open_issues": 0,
       "owner": "jakoch",
       "repo": "awesome-composer",
-      "stars": 907,
+      "stars": 908,
       "topics": [
         "awesome",
         "awesome-list",
