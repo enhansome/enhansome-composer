@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-17T19:13:57Z",
-            "open_issues": 164,
+            "open_issues": 165,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29522,
+            "stars": 29521,
             "topics": [
               "composer",
               "dependency-manager",
@@ -43,10 +43,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-17T19:13:57Z",
-            "open_issues": 164,
+            "open_issues": 165,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29522,
+            "stars": 29521,
             "topics": [
               "composer",
               "dependency-manager",
@@ -70,10 +70,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-17T19:13:57Z",
-            "open_issues": 164,
+            "open_issues": 165,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29522,
+            "stars": 29521,
             "topics": [
               "composer",
               "dependency-manager",
@@ -194,7 +194,7 @@
             "open_issues": 57,
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1728,
+            "stars": 1729,
             "topics": [
               "composer",
               "php"
@@ -292,7 +292,7 @@
             "open_issues": 8,
             "owner": "clue",
             "repo": "graph-composer",
-            "stars": 938,
+            "stars": 937,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 0,
             "owner": "mcaskill",
             "repo": "composer-plugin-exclude-files",
-            "stars": 41,
+            "stars": 40,
             "topics": [
               "composer",
               "composer-plugin"
@@ -1651,7 +1651,7 @@
             "open_issues": 8,
             "owner": "ergebnis",
             "repo": "composer-normalize",
-            "stars": 1123,
+            "stars": 1124,
             "topics": [
               "composer",
               "composer-plugin",
@@ -2488,7 +2488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:37:07.182Z",
+    "last_updated": "2026-09-19T07:32:11.724Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
