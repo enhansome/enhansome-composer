@@ -19,7 +19,7 @@
             "open_issues": 167,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29524,
+            "stars": 29523,
             "topics": [
               "composer",
               "dependency-manager",
@@ -46,7 +46,7 @@
             "open_issues": 167,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29524,
+            "stars": 29523,
             "topics": [
               "composer",
               "dependency-manager",
@@ -73,7 +73,7 @@
             "open_issues": 167,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29524,
+            "stars": 29523,
             "topics": [
               "composer",
               "dependency-manager",
@@ -1476,8 +1476,8 @@
             "id": 990531132,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T05:08:06Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-21T07:00:06Z",
+            "open_issues": 4,
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3,
@@ -1647,11 +1647,11 @@
             "id": 117266976,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-13T22:04:26Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-20T22:11:04Z",
+            "open_issues": 12,
             "owner": "ergebnis",
             "repo": "composer-normalize",
-            "stars": 1124,
+            "stars": 1125,
             "topics": [
               "composer",
               "composer-plugin",
@@ -2316,7 +2316,7 @@
             "open_issues": 54,
             "owner": "vtsykun",
             "repo": "packeton",
-            "stars": 546,
+            "stars": 547,
             "topics": [
               "composer",
               "docker-satis",
@@ -2488,7 +2488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:55:11.971Z",
+    "last_updated": "2026-09-21T08:12:23.479Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
