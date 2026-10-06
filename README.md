@@ -12,9 +12,9 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,
 
 ## Composer
 
-* [GitHub](https://github.com/composer/composer) ⭐ 29,543 | 🐛 143 | 🌐 PHP | 📅 2026-10-05
-* [Issues](https://github.com/composer/composer/issues) ⭐ 29,543 | 🐛 143 | 🌐 PHP | 📅 2026-10-05
-* [Source](https://github.com/composer/composer/tree/HEAD/src/Composer) ⭐ 29,543 | 🐛 143 | 🌐 PHP | 📅 2026-10-05
+* [GitHub](https://github.com/composer/composer) ⭐ 29,542 | 🐛 143 | 🌐 PHP | 📅 2026-10-05
+* [Issues](https://github.com/composer/composer/issues) ⭐ 29,542 | 🐛 143 | 🌐 PHP | 📅 2026-10-05
+* [Source](https://github.com/composer/composer/tree/HEAD/src/Composer) ⭐ 29,542 | 🐛 143 | 🌐 PHP | 📅 2026-10-05
 * [Composer Installers](https://github.com/composer/installers) ⭐ 1,440 | 🐛 26 | 🌐 PHP | 📅 2026-07-01 - Composer installers for multiple frameworks.
 * [Official Website](https://getcomposer.org/)
 * [Documentation](https://getcomposer.org/doc/)
