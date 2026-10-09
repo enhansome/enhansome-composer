@@ -15,11 +15,11 @@
             "id": 1864363,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-05T12:58:34Z",
-            "open_issues": 145,
+            "last_commit": "2026-10-08T23:10:40Z",
+            "open_issues": 141,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29544,
+            "stars": 29546,
             "topics": [
               "composer",
               "dependency-manager",
@@ -42,11 +42,11 @@
             "id": 1864363,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-05T12:58:34Z",
-            "open_issues": 145,
+            "last_commit": "2026-10-08T23:10:40Z",
+            "open_issues": 141,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29544,
+            "stars": 29546,
             "topics": [
               "composer",
               "dependency-manager",
@@ -69,11 +69,11 @@
             "id": 1864363,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-05T12:58:34Z",
-            "open_issues": 145,
+            "last_commit": "2026-10-08T23:10:40Z",
+            "open_issues": 141,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29544,
+            "stars": 29546,
             "topics": [
               "composer",
               "dependency-manager",
@@ -1396,6 +1396,31 @@
         },
         {
           "node_type": "item",
+          "title": "WP Org Closed Plugin",
+          "description": "Marks packages as abandoned if closed on WordPress.org.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Composer plugin to mark packages as abandoned if closed on WordPress.org",
+            "homepage": null,
+            "id": 937387761,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-10-06T15:35:00Z",
+            "open_issues": 2,
+            "owner": "typisttech",
+            "repo": "wp-org-closed-plugin",
+            "stars": 6,
+            "topics": [
+              "composer-plugin",
+              "security-audit",
+              "wordpress-org"
+            ]
+          },
+          "first_seen": "2026-10-09T09:38:15.778Z"
+        },
+        {
+          "node_type": "item",
           "title": "Composer-Curl-Plugin",
           "description": "The plugin uses for downloading packages.",
           "children": [],
@@ -1476,7 +1501,7 @@
             "id": 990531132,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T09:36:04Z",
+            "last_commit": "2026-10-09T06:27:57Z",
             "open_issues": 2,
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
@@ -1547,7 +1572,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5389,
+            "stars": 5388,
             "topics": [
               "browser-extension",
               "github",
@@ -1574,7 +1599,7 @@
             "open_issues": 0,
             "owner": "composer",
             "repo": "xdebug-handler",
-            "stars": 2564,
+            "stars": 2563,
             "topics": [
               "performance",
               "php",
@@ -1778,6 +1803,32 @@
             ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Composer Audit to SARIF Action",
+          "description": "Convert Composer audit reports to SARIF files on GitHub Actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Convert Composer audit reports to SARIF files",
+            "homepage": null,
+            "id": 1248007370,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-06T20:24:07Z",
+            "open_issues": 0,
+            "owner": "typisttech",
+            "repo": "composer-audit-to-sarif-action",
+            "stars": 1,
+            "topics": [
+              "actions",
+              "code-scanning",
+              "composer",
+              "sarif"
+            ]
+          },
+          "first_seen": "2026-10-09T09:38:15.778Z"
         }
       ],
       "title": "Tools"
@@ -2382,6 +2433,31 @@
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
         {
+          "node_type": "item",
+          "title": "WP Sec Adv",
+          "description": "Composer repository for WordPress security advisories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Composer repository for WordPress security advisories.",
+            "homepage": "https://repo-wpsecadv.typist.tech",
+            "id": 1084703600,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-10-08T22:22:45Z",
+            "open_issues": 1,
+            "owner": "typisttech",
+            "repo": "wpsecadv",
+            "stars": 27,
+            "topics": [
+              "composer",
+              "vulnerability",
+              "wordpress"
+            ]
+          },
+          "first_seen": "2026-10-09T09:38:15.778Z"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -2488,7 +2564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:27:56.021Z",
+    "last_updated": "2026-10-09T09:38:15.778Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
@@ -2496,8 +2572,8 @@
       "id": 50202814,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-07-26T14:48:03Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-08T09:48:15Z",
+      "open_issues": 1,
       "owner": "jakoch",
       "repo": "awesome-composer",
       "stars": 908,
@@ -2516,7 +2592,7 @@
         "php"
       ]
     },
-    "original_repository_sha": "6555b6d572f0435427c27afff0e2fc21c84ffd15",
+    "original_repository_sha": "a160095cda37f7545238f379236c77399ba2a928",
     "enhanced_repository": "enhansome/enhansome-composer",
     "enhanced_repository_description": null,
     "title": "Awesome Composer with stars"
