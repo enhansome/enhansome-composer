@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-08T23:10:40Z",
-            "open_issues": 141,
+            "open_issues": 142,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29546,
+            "stars": 29549,
             "topics": [
               "composer",
               "dependency-manager",
@@ -43,10 +43,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-08T23:10:40Z",
-            "open_issues": 141,
+            "open_issues": 142,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29546,
+            "stars": 29549,
             "topics": [
               "composer",
               "dependency-manager",
@@ -70,10 +70,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-08T23:10:40Z",
-            "open_issues": 141,
+            "open_issues": 142,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29546,
+            "stars": 29549,
             "topics": [
               "composer",
               "dependency-manager",
@@ -100,7 +100,7 @@
             "open_issues": 26,
             "owner": "composer",
             "repo": "installers",
-            "stars": 1440,
+            "stars": 1439,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -127,7 +127,7 @@
             "open_issues": 40,
             "owner": "hirak",
             "repo": "prestissimo",
-            "stars": 6114,
+            "stars": 6113,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -148,7 +148,7 @@
             "open_issues": 25,
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4209,
+            "stars": 4210,
             "topics": [
               "composer",
               "flex",
@@ -169,7 +169,7 @@
             "id": 50372644,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-08T06:47:19Z",
+            "last_commit": "2026-10-10T06:01:14Z",
             "open_issues": 2,
             "owner": "Ocramius",
             "repo": "PackageVersions",
@@ -194,7 +194,7 @@
             "open_issues": 57,
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1732,
+            "stars": 1731,
             "topics": [
               "composer",
               "php"
@@ -313,7 +313,7 @@
             "open_issues": 15,
             "owner": "fxpio",
             "repo": "composer-asset-plugin",
-            "stars": 885,
+            "stars": 886,
             "topics": [
               "assets",
               "bower",
@@ -750,7 +750,7 @@
             "open_issues": 11,
             "owner": "barryvdh",
             "repo": "composer-cleanup-plugin",
-            "stars": 147,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -1241,7 +1241,7 @@
             "id": 204363168,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-30T14:55:00Z",
+            "last_commit": "2026-10-09T18:38:49Z",
             "open_issues": 1,
             "owner": "drupal",
             "repo": "core-vendor-hardening",
@@ -1406,7 +1406,7 @@
             "id": 937387761,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-06T15:35:00Z",
+            "last_commit": "2026-10-10T06:53:44Z",
             "open_issues": 2,
             "owner": "typisttech",
             "repo": "wp-org-closed-plugin",
@@ -1501,7 +1501,7 @@
             "id": 990531132,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T06:27:57Z",
+            "last_commit": "2026-10-10T06:21:19Z",
             "open_issues": 2,
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
@@ -1572,7 +1572,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5388,
+            "stars": 5387,
             "topics": [
               "browser-extension",
               "github",
@@ -1816,7 +1816,7 @@
             "id": 1248007370,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-06T20:24:07Z",
+            "last_commit": "2026-10-10T03:59:56Z",
             "open_issues": 0,
             "owner": "typisttech",
             "repo": "composer-audit-to-sarif-action",
@@ -2444,7 +2444,7 @@
             "id": 1084703600,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-08T22:22:45Z",
+            "last_commit": "2026-10-09T22:00:31Z",
             "open_issues": 1,
             "owner": "typisttech",
             "repo": "wpsecadv",
@@ -2564,7 +2564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:38:15.778Z",
+    "last_updated": "2026-10-10T09:01:17.707Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
