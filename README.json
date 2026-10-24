@@ -15,11 +15,11 @@
             "id": 1864363,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-22T19:13:38Z",
-            "open_issues": 142,
+            "last_commit": "2026-10-23T14:15:38Z",
+            "open_issues": 138,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29561,
+            "stars": 29560,
             "topics": [
               "composer",
               "dependency-manager",
@@ -42,11 +42,11 @@
             "id": 1864363,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-22T19:13:38Z",
-            "open_issues": 142,
+            "last_commit": "2026-10-23T14:15:38Z",
+            "open_issues": 138,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29561,
+            "stars": 29560,
             "topics": [
               "composer",
               "dependency-manager",
@@ -69,11 +69,11 @@
             "id": 1864363,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-22T19:13:38Z",
-            "open_issues": 142,
+            "last_commit": "2026-10-23T14:15:38Z",
+            "open_issues": 138,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29561,
+            "stars": 29560,
             "topics": [
               "composer",
               "dependency-manager",
@@ -194,7 +194,7 @@
             "open_issues": 58,
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1735,
+            "stars": 1736,
             "topics": [
               "composer",
               "php"
@@ -271,7 +271,7 @@
             "open_issues": 72,
             "owner": "wikimedia",
             "repo": "composer-merge-plugin",
-            "stars": 1017,
+            "stars": 1016,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -831,33 +831,6 @@
         },
         {
           "node_type": "item",
-          "title": "Composer-REPL",
-          "description": "The plugin provides the command, which gives you a PHP language shell (read-eval-print loop).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":shell: A REPL for PHP built into Composer (using PsySH)",
-            "homepage": null,
-            "id": 290004952,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2025-03-06T02:08:11Z",
-            "open_issues": 0,
-            "owner": "ramsey",
-            "repo": "composer-repl",
-            "stars": 104,
-            "topics": [
-              "composer",
-              "composer-plugin",
-              "php",
-              "psysh",
-              "repl"
-            ]
-          },
-          "first_seen": "2026-08-28T14:35:30.506Z"
-        },
-        {
-          "node_type": "item",
           "title": "Composer-Composition",
           "description": "Provides an API, for checking your environment at runtime.",
           "children": [],
@@ -874,6 +847,33 @@
             "repo": "composition",
             "stars": 103,
             "topics": []
+          },
+          "first_seen": "2026-08-28T14:35:30.506Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Composer-REPL",
+          "description": "The plugin provides the command, which gives you a PHP language shell (read-eval-print loop).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":shell: A REPL for PHP built into Composer (using PsySH)",
+            "homepage": null,
+            "id": 290004952,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2025-03-06T02:08:11Z",
+            "open_issues": 0,
+            "owner": "ramsey",
+            "repo": "composer-repl",
+            "stars": 103,
+            "topics": [
+              "composer",
+              "composer-plugin",
+              "php",
+              "psysh",
+              "repl"
+            ]
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
         },
@@ -986,7 +986,7 @@
             "open_issues": 5,
             "owner": "kalessil",
             "repo": "production-dependencies-guard",
-            "stars": 84,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -1572,7 +1572,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5392,
+            "stars": 5393,
             "topics": [
               "browser-extension",
               "github",
@@ -1595,7 +1595,7 @@
             "id": 111680504,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-22T20:04:47Z",
+            "last_commit": "2026-10-23T16:35:00Z",
             "open_issues": 2,
             "owner": "composer",
             "repo": "xdebug-handler",
@@ -1672,11 +1672,11 @@
             "id": 117266976,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-22T14:27:23Z",
+            "last_commit": "2026-10-23T14:10:25Z",
             "open_issues": 8,
             "owner": "ergebnis",
             "repo": "composer-normalize",
-            "stars": 1127,
+            "stars": 1126,
             "topics": [
               "composer",
               "composer-plugin",
@@ -1702,7 +1702,7 @@
             "open_issues": 46,
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
-            "stars": 1011,
+            "stars": 1010,
             "topics": [
               "ci-tools",
               "code-quality"
@@ -2295,7 +2295,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-09-08T12:53:03Z",
-                "open_issues": 128,
+                "open_issues": 129,
                 "owner": "repman-io",
                 "repo": "repman",
                 "stars": 586,
@@ -2363,11 +2363,11 @@
             "id": 146350116,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-04-29T16:06:01Z",
-            "open_issues": 58,
+            "last_commit": "2026-10-23T14:54:07Z",
+            "open_issues": 56,
             "owner": "vtsykun",
             "repo": "packeton",
-            "stars": 552,
+            "stars": 553,
             "topics": [
               "composer",
               "docker-satis",
@@ -2444,7 +2444,7 @@
             "id": 1084703600,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-22T20:50:35Z",
+            "last_commit": "2026-10-23T20:44:13Z",
             "open_issues": 0,
             "owner": "typisttech",
             "repo": "wpsecadv",
@@ -2564,7 +2564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T07:56:31.524Z",
+    "last_updated": "2026-10-24T07:36:02.733Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
