@@ -6,15 +6,15 @@
 
 > A curated list of resources for Composer, Packagist, Satis, Plugins, Scripts, Videos, Tutorials.
 
-You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,762 | 🐛 98 | 📅 2026-09-27.
+You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,763 | 🐛 98 | 📅 2026-09-27.
 
 *Please read the [contribution guidelines](https://github.com/jakoch/awesome-composer/blob/main/.github/CONTRIBUTING.md) before contributing.*
 
 ## Composer
 
-* [GitHub](https://github.com/composer/composer) ⭐ 29,560 | 🐛 138 | 🌐 PHP | 📅 2026-10-23
-* [Issues](https://github.com/composer/composer/issues) ⭐ 29,560 | 🐛 138 | 🌐 PHP | 📅 2026-10-23
-* [Source](https://github.com/composer/composer/tree/HEAD/src/Composer) ⭐ 29,560 | 🐛 138 | 🌐 PHP | 📅 2026-10-23
+* [GitHub](https://github.com/composer/composer) ⭐ 29,562 | 🐛 143 | 🌐 PHP | 📅 2026-10-23
+* [Issues](https://github.com/composer/composer/issues) ⭐ 29,562 | 🐛 143 | 🌐 PHP | 📅 2026-10-23
+* [Source](https://github.com/composer/composer/tree/HEAD/src/Composer) ⭐ 29,562 | 🐛 143 | 🌐 PHP | 📅 2026-10-23
 * [Composer Installers](https://github.com/composer/installers) ⭐ 1,439 | 🐛 27 | 🌐 PHP | 📅 2026-07-01 - Composer installers for multiple frameworks.
 * [Official Website](https://getcomposer.org/)
 * [Documentation](https://getcomposer.org/doc/)
@@ -38,9 +38,9 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,
 
 ## Plugins
 
-* [Prestissimo](https://github.com/hirak/prestissimo) ⭐ 6,110 | 🐛 40 | 🌐 PHP | 📅 2022-12-03 - A parallel downloader using `phpext_curl`.
-* [Symfony-Flex](https://github.com/symfony/flex) ⭐ 4,212 | 🐛 28 | 🌐 PHP | 📅 2026-05-29 - Provides [recipe-based](https://github.com/symfony/recipes) ⭐ 1,029 | 🐛 60 | 🌐 PHP | 📅 2026-10-22 installation and configuration management for Symfony packages.
-* [PackageVersions](https://github.com/Ocramius/PackageVersions) ⭐ 3,166 | 🐛 2 | 🌐 PHP | 📅 2026-10-23 - Provides a very quick and easy access to installed composer dependency versions.
+* [Prestissimo](https://github.com/hirak/prestissimo) ⭐ 6,111 | 🐛 40 | 🌐 PHP | 📅 2022-12-03 - A parallel downloader using `phpext_curl`.
+* [Symfony-Flex](https://github.com/symfony/flex) ⭐ 4,212 | 🐛 28 | 🌐 PHP | 📅 2026-05-29 - Provides [recipe-based](https://github.com/symfony/recipes) ⭐ 1,029 | 🐛 59 | 🌐 PHP | 📅 2026-10-22 installation and configuration management for Symfony packages.
+* [PackageVersions](https://github.com/Ocramius/PackageVersions) ⭐ 3,166 | 🐛 2 | 🌐 PHP | 📅 2026-10-25 - Provides a very quick and easy access to installed composer dependency versions.
 * [Composer-Patches](https://github.com/cweagans/composer-patches) ⭐ 1,736 | 🐛 58 | 🌐 PHP | 📅 2026-08-31 - The plugin applies a patch from a local or remote file to any required package.
 * [PackageVersions Deprecated](https://github.com/composer/package-versions-deprecated) ⚠️ Archived - Is a fork of Ocramius/PackageVersions providing compatibility with Composer 1 and 2 on PHP 7+.
 * [Composer-Git-Hooks](https://github.com/BrainMaestro/composer-git-hooks) ⭐ 1,085 | 🐛 12 | 🌐 PHP | 📅 2024-06-22 - A library for easily managing git hooks in your composer config.
@@ -76,7 +76,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,
 * [Composer-AWS](https://github.com/naderman/composer-aws) ⚠️ Archived - The plugin loads repository data and downloads packages from Amazon S3 (with authentication support for private repositories).
 * [Composer-Locator](https://github.com/mindplay-dk/composer-locator) ⚠️ Archived - Provides a means of locating the installation path for a given Composer package name.
 * [Composer-Plugin-Exclude-Files](https://github.com/mcaskill/composer-plugin-exclude-files) ⭐ 40 | 🐛 0 | 🌐 PHP | 📅 2026-10-15 - A plugin for excluding files required by packages using the 'files' autoloading mechanism.
-* [Composer-Vendor-Cleaner](https://github.com/liborm85/composer-vendor-cleaner) ⭐ 34 | 🐛 0 | 🌐 PHP | 📅 2025-11-21 - Plugin removes unnecessary development files and directories from `vendor` directory by glob pattern syntax.
+* [Composer-Vendor-Cleaner](https://github.com/liborm85/composer-vendor-cleaner) ⭐ 34 | 🐛 0 | 🌐 PHP | 📅 2026-10-24 - Plugin removes unnecessary development files and directories from `vendor` directory by glob pattern syntax.
 * [Composer-Inheritance-Plugin](https://github.com/theofidry/composer-inheritance-plugin) ⭐ 29 | 🐛 1 | 🌐 PHP | 📅 2021-10-11 - Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin.
 * [Composer-Velocita](https://github.com/isaaceindhoven/composer-velocita) ⚠️ Archived - Fast and reliable Composer package downloads using [Velocita](https://github.com/isaaceindhoven/velocita-proxy) ⚠️ Archived: a caching reverse proxy that does not require you to modify your projects.
 * [Composer-Plugin-QA](https://github.com/Webysther/composer-plugin-qa) ⚠️ Archived - Comprehensive Plugin for composer to execute PHP Quality assurance Tools.
@@ -93,14 +93,14 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,
 * [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2015-06-12 - The plugin uses `phpext_curl` for downloading packages.
 * [PHP Inc](https://github.com/krakphp/php-inc) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2021-08-23 - Automatically includes files for autoload and autoload-dev to facilitate using functions and grouped definitions within composer loaded applications.
 * [Composer-Suggest](https://github.com/nfreear/composer-suggest) ⭐ 4 | 🐛 8 | 🌐 PHP | 📅 2018-07-31 - Enables you to install a custom group of suggested packages, based on keyword patterns.
-* [Composer Translation Validator](https://github.com/move-elevator/composer-translation-validator) ⭐ 3 | 🐛 2 | 🌐 PHP | 📅 2026-10-22 - Validates translation files in your project, supports several file formats (regarding different frameworks) and provides useful validators for comparison, consistency and syntax checks.
+* [Composer Translation Validator](https://github.com/move-elevator/composer-translation-validator) ⭐ 3 | 🐛 2 | 🌐 PHP | 📅 2026-10-24 - Validates translation files in your project, supports several file formats (regarding different frameworks) and provides useful validators for comparison, consistency and syntax checks.
 * [Composer-Fanfare](https://github.com/wazum/composer-fanfare) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-07-27 - Displays a colored ASCII art banner after install/update, with color presets, gradients and animations.
 * [Documentation for Plugins](https://getcomposer.org/doc/articles/plugins.md) - This offical documentation is good starting point, when writing a Composer plugin.
 * [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
 
 ## Tools
 
-* [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) ⭐ 5,393 | 🐛 62 | 🌐 HTML | 📅 2023-10-02 - Enables you to navigate Composer/NPM dependencies on GitHub.
+* [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) ⭐ 5,391 | 🐛 62 | 🌐 HTML | 📅 2023-10-02 - Enables you to navigate Composer/NPM dependencies on GitHub.
 * [Composer/Xdebug-Handler](https://github.com/composer/xdebug-handler) ⭐ 2,563 | 🐛 2 | 🌐 PHP | 📅 2026-10-23 - Helps you to restart a CLI process without loading the xdebug extension.
 * [Composer-Unused](https://github.com/composer-unused/composer-unused) ⭐ 1,693 | 🐛 13 | 🌐 PHP | 📅 2026-10-23 - A CLI tool, which scans your code and shows unused Composer dependencies.
 * [Studio](https://github.com/franzliedke/studio) ⭐ 1,136 | 🐛 24 | 🌐 PHP | 📅 2024-04-21 - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project.
@@ -198,7 +198,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,
 
 ### Setup a Packagist Mirror
 
-* [Packagist Mirror](https://github.com/Webysther/packagist-mirror) ⚠️ Archived - This script helps to setup a packagist mirror. It is the maintained and stable version of [Packagist Crawler](https://github.com/hirak/packagist-crawler) ⭐ 57 | 🐛 0 | 🌐 PHP | 📅 2021-11-14.
+* [Packagist Mirror](https://github.com/Webysther/packagist-mirror) ⚠️ Archived - This script helps to setup a packagist mirror. It is the maintained and stable version of [Packagist Crawler](https://github.com/hirak/packagist-crawler) ⚠️ Archived.
 * [Packagist Mirror from Indonesia](https://github.com/IndraGunawan/packagist-mirror) ⭐ 31 | 🐛 2 | 🌐 PHP | 📅 2019-05-14 - Another implementation for creating a packagist mirror.
 * [Docker Image](https://github.com/Webysther/packagist-mirror-docker) ⚠️ Archived - This Docker image helps to create a customized packagist mirror.
 
@@ -270,4 +270,4 @@ To the extent possible under law, [Jens A. Koch](https://github.com/jakoch) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
