@@ -15,11 +15,11 @@
             "id": 1864363,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-26T14:37:47Z",
-            "open_issues": 144,
+            "last_commit": "2026-10-29T07:51:11Z",
+            "open_issues": 141,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29563,
+            "stars": 29568,
             "topics": [
               "composer",
               "dependency-manager",
@@ -42,11 +42,11 @@
             "id": 1864363,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-26T14:37:47Z",
-            "open_issues": 144,
+            "last_commit": "2026-10-29T07:51:11Z",
+            "open_issues": 141,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29563,
+            "stars": 29568,
             "topics": [
               "composer",
               "dependency-manager",
@@ -69,11 +69,11 @@
             "id": 1864363,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-26T14:37:47Z",
-            "open_issues": 144,
+            "last_commit": "2026-10-29T07:51:11Z",
+            "open_issues": 141,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29563,
+            "stars": 29568,
             "topics": [
               "composer",
               "dependency-manager",
@@ -127,7 +127,7 @@
             "open_issues": 40,
             "owner": "hirak",
             "repo": "prestissimo",
-            "stars": 6110,
+            "stars": 6109,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -148,7 +148,7 @@
             "open_issues": 32,
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4212,
+            "stars": 4211,
             "topics": [
               "composer",
               "flex",
@@ -169,11 +169,11 @@
             "id": 50372644,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-28T04:52:17Z",
+            "last_commit": "2026-10-29T04:47:49Z",
             "open_issues": 2,
             "owner": "Ocramius",
             "repo": "PackageVersions",
-            "stars": 3167,
+            "stars": 3166,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -292,7 +292,7 @@
             "open_issues": 8,
             "owner": "clue",
             "repo": "graph-composer",
-            "stars": 937,
+            "stars": 936,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -398,7 +398,7 @@
             "open_issues": 3,
             "owner": "pyrech",
             "repo": "composer-changelogs",
-            "stars": 587,
+            "stars": 586,
             "topics": [
               "changelog",
               "composer",
@@ -481,7 +481,7 @@
             "open_issues": 13,
             "owner": "beberlei",
             "repo": "composer-monorepo-plugin",
-            "stars": 312,
+            "stars": 311,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -794,8 +794,8 @@
             "id": 28814261,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-10-25T16:40:50Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-29T00:13:47Z",
+            "open_issues": 0,
             "owner": "dg",
             "repo": "composer-cleaner",
             "stars": 136,
@@ -893,7 +893,7 @@
             "open_issues": 0,
             "owner": "SanderSander",
             "repo": "composer-link",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "composer",
               "composer-plugin",
@@ -1599,7 +1599,7 @@
             "open_issues": 2,
             "owner": "composer",
             "repo": "xdebug-handler",
-            "stars": 2562,
+            "stars": 2561,
             "topics": [
               "performance",
               "php",
@@ -1625,7 +1625,7 @@
             "open_issues": 13,
             "owner": "composer-unused",
             "repo": "composer-unused",
-            "stars": 1693,
+            "stars": 1694,
             "topics": [
               "composer",
               "hacktoberfest",
@@ -1852,7 +1852,7 @@
             "open_issues": 32,
             "owner": "Incenteev",
             "repo": "ParameterHandler",
-            "stars": 929,
+            "stars": 928,
             "topics": [
               "composer",
               "composer-scripts",
@@ -1879,7 +1879,7 @@
             "open_issues": 0,
             "owner": "sensiolabs",
             "repo": "melody",
-            "stars": 394,
+            "stars": 393,
             "topics": [
               "composer-scripts",
               "melody",
@@ -2444,8 +2444,8 @@
             "id": 1084703600,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-27T21:36:06Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-28T21:59:04Z",
+            "open_issues": 2,
             "owner": "typisttech",
             "repo": "wpsecadv",
             "stars": 27,
@@ -2475,7 +2475,7 @@
                 "open_issues": 9,
                 "owner": "project-satisfy",
                 "repo": "satisfy",
-                "stars": 549,
+                "stars": 548,
                 "topics": [
                   "composer",
                   "composer-packages",
@@ -2564,7 +2564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T08:59:08.548Z",
+    "last_updated": "2026-10-29T08:54:45.759Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
@@ -2576,7 +2576,7 @@
       "open_issues": 1,
       "owner": "jakoch",
       "repo": "awesome-composer",
-      "stars": 909,
+      "stars": 908,
       "topics": [
         "awesome",
         "awesome-list",
