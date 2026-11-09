@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-05T19:13:51Z",
-            "open_issues": 163,
+            "open_issues": 166,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29570,
+            "stars": 29569,
             "topics": [
               "composer",
               "dependency-manager",
@@ -43,10 +43,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-05T19:13:51Z",
-            "open_issues": 163,
+            "open_issues": 166,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29570,
+            "stars": 29569,
             "topics": [
               "composer",
               "dependency-manager",
@@ -70,10 +70,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-05T19:13:51Z",
-            "open_issues": 163,
+            "open_issues": 166,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29570,
+            "stars": 29569,
             "topics": [
               "composer",
               "dependency-manager",
@@ -148,7 +148,7 @@
             "open_issues": 1,
             "owner": "symfony",
             "repo": "flex",
-            "stars": 4210,
+            "stars": 4209,
             "topics": [
               "composer",
               "flex",
@@ -169,11 +169,11 @@
             "id": 50372644,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-08T04:24:05Z",
+            "last_commit": "2026-11-09T01:08:57Z",
             "open_issues": 3,
             "owner": "Ocramius",
             "repo": "PackageVersions",
-            "stars": 3165,
+            "stars": 3166,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -194,7 +194,7 @@
             "open_issues": 61,
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1736,
+            "stars": 1737,
             "topics": [
               "composer",
               "php"
@@ -893,7 +893,7 @@
             "open_issues": 0,
             "owner": "SanderSander",
             "repo": "composer-link",
-            "stars": 97,
+            "stars": 98,
             "topics": [
               "composer",
               "composer-plugin",
@@ -1501,8 +1501,8 @@
             "id": 990531132,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T05:44:40Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-09T07:28:37Z",
+            "open_issues": 2,
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3,
@@ -1572,7 +1572,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5392,
+            "stars": 5393,
             "topics": [
               "browser-extension",
               "github",
@@ -1651,7 +1651,7 @@
             "open_issues": 24,
             "owner": "franzliedke",
             "repo": "studio",
-            "stars": 1136,
+            "stars": 1135,
             "topics": [
               "composer-packages",
               "composer-plugin",
@@ -1672,7 +1672,7 @@
             "id": 117266976,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-07T23:30:57Z",
+            "last_commit": "2026-11-08T22:09:55Z",
             "open_issues": 8,
             "owner": "ergebnis",
             "repo": "composer-normalize",
@@ -2564,7 +2564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T09:29:12.542Z",
+    "last_updated": "2026-11-09T10:21:27.722Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
