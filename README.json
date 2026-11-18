@@ -19,7 +19,7 @@
             "open_issues": 175,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29579,
+            "stars": 29581,
             "topics": [
               "composer",
               "dependency-manager",
@@ -46,7 +46,7 @@
             "open_issues": 175,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29579,
+            "stars": 29581,
             "topics": [
               "composer",
               "dependency-manager",
@@ -73,7 +73,7 @@
             "open_issues": 175,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29579,
+            "stars": 29581,
             "topics": [
               "composer",
               "dependency-manager",
@@ -169,11 +169,11 @@
             "id": 50372644,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-17T05:53:33Z",
+            "last_commit": "2026-11-18T05:48:14Z",
             "open_issues": 4,
             "owner": "Ocramius",
             "repo": "PackageVersions",
-            "stars": 3165,
+            "stars": 3164,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -191,10 +191,10 @@
             "language": "PHP",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-16T01:43:38Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "cweagans",
             "repo": "composer-patches",
-            "stars": 1739,
+            "stars": 1740,
             "topics": [
               "composer",
               "php"
@@ -368,7 +368,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-05T22:49:27Z",
-            "open_issues": 8,
+            "open_issues": 10,
             "owner": "PHPCSStandards",
             "repo": "composer-installer",
             "stars": 604,
@@ -398,7 +398,7 @@
             "open_issues": 3,
             "owner": "pyrech",
             "repo": "composer-changelogs",
-            "stars": 586,
+            "stars": 587,
             "topics": [
               "changelog",
               "composer",
@@ -1599,7 +1599,7 @@
             "open_issues": 1,
             "owner": "composer",
             "repo": "xdebug-handler",
-            "stars": 2562,
+            "stars": 2561,
             "topics": [
               "performance",
               "php",
@@ -1698,7 +1698,7 @@
             "id": 46859018,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-17T05:49:10Z",
+            "last_commit": "2026-11-18T04:09:43Z",
             "open_issues": 48,
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
@@ -1816,7 +1816,7 @@
             "id": 1248007370,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-05T20:05:51Z",
+            "last_commit": "2026-11-17T20:05:52Z",
             "open_issues": 0,
             "owner": "typisttech",
             "repo": "composer-audit-to-sarif-action",
@@ -2295,7 +2295,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-09-08T12:53:03Z",
-                "open_issues": 129,
+                "open_issues": 130,
                 "owner": "repman-io",
                 "repo": "repman",
                 "stars": 586,
@@ -2444,7 +2444,7 @@
             "id": 1084703600,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-17T01:03:23Z",
+            "last_commit": "2026-11-18T00:01:03Z",
             "open_issues": 1,
             "owner": "typisttech",
             "repo": "wpsecadv",
@@ -2475,7 +2475,7 @@
                 "open_issues": 9,
                 "owner": "project-satisfy",
                 "repo": "satisfy",
-                "stars": 547,
+                "stars": 546,
                 "topics": [
                   "composer",
                   "composer-packages",
@@ -2564,7 +2564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T11:09:37.031Z",
+    "last_updated": "2026-11-18T10:44:33.194Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
