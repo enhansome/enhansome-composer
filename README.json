@@ -15,8 +15,8 @@
             "id": 1864363,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-19T20:26:53Z",
-            "open_issues": 170,
+            "last_commit": "2026-11-24T12:31:44Z",
+            "open_issues": 168,
             "owner": "composer",
             "repo": "composer",
             "stars": 29590,
@@ -42,8 +42,8 @@
             "id": 1864363,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-19T20:26:53Z",
-            "open_issues": 170,
+            "last_commit": "2026-11-24T12:31:44Z",
+            "open_issues": 168,
             "owner": "composer",
             "repo": "composer",
             "stars": 29590,
@@ -69,8 +69,8 @@
             "id": 1864363,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-19T20:26:53Z",
-            "open_issues": 170,
+            "last_commit": "2026-11-24T12:31:44Z",
+            "open_issues": 168,
             "owner": "composer",
             "repo": "composer",
             "stars": 29590,
@@ -169,7 +169,7 @@
             "id": 50372644,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-23T06:40:16Z",
+            "last_commit": "2026-11-24T12:51:16Z",
             "open_issues": 4,
             "owner": "Ocramius",
             "repo": "PackageVersions",
@@ -191,7 +191,7 @@
             "language": "PHP",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-16T01:43:38Z",
-            "open_issues": 63,
+            "open_issues": 62,
             "owner": "cweagans",
             "repo": "composer-patches",
             "stars": 1739,
@@ -292,7 +292,7 @@
             "open_issues": 8,
             "owner": "clue",
             "repo": "graph-composer",
-            "stars": 936,
+            "stars": 935,
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
@@ -611,8 +611,8 @@
             "id": 271629916,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-13T03:58:14Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-23T13:19:11Z",
+            "open_issues": 0,
             "owner": "IonBazan",
             "repo": "composer-diff",
             "stars": 188,
@@ -918,7 +918,7 @@
             "open_issues": 22,
             "owner": "CycloneDX",
             "repo": "cyclonedx-php-composer",
-            "stars": 91,
+            "stars": 92,
             "topics": [
               "bill-of-materials",
               "bom",
@@ -1375,6 +1375,31 @@
         },
         {
           "node_type": "item",
+          "title": "WP Org Closed Plugin",
+          "description": "Marks packages as abandoned if closed on WordPress.org.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Composer plugin to mark packages as abandoned if closed on WordPress.org",
+            "homepage": null,
+            "id": 937387761,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-11-23T15:37:11Z",
+            "open_issues": 2,
+            "owner": "typisttech",
+            "repo": "wp-org-closed-plugin",
+            "stars": 7,
+            "topics": [
+              "composer-plugin",
+              "security-audit",
+              "wordpress-org"
+            ]
+          },
+          "first_seen": "2026-10-09T09:38:15.778Z"
+        },
+        {
+          "node_type": "item",
           "title": "Node-Composer",
           "description": "Installer for Node.js, npm and yarn.",
           "children": [],
@@ -1393,31 +1418,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T14:35:30.506Z"
-        },
-        {
-          "node_type": "item",
-          "title": "WP Org Closed Plugin",
-          "description": "Marks packages as abandoned if closed on WordPress.org.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Composer plugin to mark packages as abandoned if closed on WordPress.org",
-            "homepage": null,
-            "id": 937387761,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-11-20T15:35:52Z",
-            "open_issues": 2,
-            "owner": "typisttech",
-            "repo": "wp-org-closed-plugin",
-            "stars": 6,
-            "topics": [
-              "composer-plugin",
-              "security-audit",
-              "wordpress-org"
-            ]
-          },
-          "first_seen": "2026-10-09T09:38:15.778Z"
         },
         {
           "node_type": "item",
@@ -1501,8 +1501,8 @@
             "id": 990531132,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-22T05:51:47Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-23T21:33:59Z",
+            "open_issues": 18,
             "owner": "move-elevator",
             "repo": "composer-translation-validator",
             "stars": 3,
@@ -1698,11 +1698,11 @@
             "id": 46859018,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-22T13:22:39Z",
+            "last_commit": "2026-11-24T00:06:10Z",
             "open_issues": 50,
             "owner": "maglnet",
             "repo": "ComposerRequireChecker",
-            "stars": 1011,
+            "stars": 1012,
             "topics": [
               "ci-tools",
               "code-quality"
@@ -1816,7 +1816,7 @@
             "id": 1248007370,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-20T22:31:21Z",
+            "last_commit": "2026-11-23T20:06:48Z",
             "open_issues": 0,
             "owner": "typisttech",
             "repo": "composer-audit-to-sarif-action",
@@ -2444,7 +2444,7 @@
             "id": 1084703600,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-23T03:29:56Z",
+            "last_commit": "2026-11-24T03:31:12Z",
             "open_issues": 2,
             "owner": "typisttech",
             "repo": "wpsecadv",
@@ -2564,7 +2564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T11:16:34.419Z",
+    "last_updated": "2026-11-24T12:56:21.016Z",
     "original_repository_info": {
       "archived": false,
       "description": " :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.",
